@@ -1,0 +1,13 @@
+interval_minutes: 5
+request_timeout_sec: 20
+user_agent: "sitemap-monitor/1.0"
+targets:
+  - name: "gamemonetize"
+    url: "https://gamemonetize.com/sitemap.xml"
+    enabled: true
+  - name: "armorgames"
+    url: "https://armorgames.com/sitemap"
+    enabled: true
+  - name: "poki-games"
+    url: "https://poki.com/en/sitemaps/games.xml"
+    enabled: true

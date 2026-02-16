@@ -1,0 +1,79 @@
+interval_minutes: 5
+request_timeout_sec: 20
+user_agent: "sitemap-monitor/1.0"
+targets:
+  - name: "gamemonetize"
+    url: "https://gamemonetize.com/sitemap.xml"
+    enabled: true
+  - name: "armorgames"
+    url: "https://armorgames.com/sitemap"
+    enabled: true
+  - name: "poki-games"
+    url: "https://poki.com/en/sitemaps/games.xml"
+    enabled: true
+  - name: "poki-index"
+    url: "https://poki.com/en/sitemaps/index.xml"
+    enabled: true
+  - name: "famobi"
+    url: "https://play.famobi.com/sitemap.xml"
+    enabled: true
+  - name: "crazygames"
+    url: "https://www.crazygames.com/sitemap-index.xml"
+    enabled: true
+  - name: "1games"
+    url: "https://1games.io/sitemap.xml"
+    enabled: true
+  - name: "twoplayergames-games"
+    url: "https://www.twoplayergames.org/sitemap-games.xml"
+    enabled: true
+  - name: "twoplayergames-categories"
+    url: "https://www.twoplayergames.org/sitemap-categories.xml"
+    enabled: true
+  - name: "twoplayergames-custom"
+    url: "https://www.twoplayergames.org/sitemap-custom.xml"
+    enabled: true
+  - name: "onlinegames"
+    url: "https://www.onlinegames.io/sitemap.xml"
+    enabled: true
+  - name: "friv"
+    url: "https://www.friv.com/sitemap.xml"
+    enabled: true
+  - name: "playhop"
+    url: "https://playhop.com/sitemaps/sitemap.index.xml"
+    enabled: true
+  - name: "minijuegos"
+    url: "https://www.minijuegos.com/sitemap.xml"
+    enabled: true
+  - name: "miniplay"
+    url: "https://www.miniplay.com/sitemap.xml"
+    enabled: true
+  - name: "rocketgames"
+    url: "https://www.rocketgames.io/sitemap.xml"
+    enabled: true
+  - name: "game-game"
+    url: "https://game-game.com/sitemap.xml"
+    enabled: true
+  - name: "azgames"
+    url: "https://azgames.io/sitemap.xml"
+    enabled: true
+  - name: "funnygames"
+    url: "https://www.funnygames.org/sitemap.xml"
+    enabled: true
+  - name: "play-games"
+    url: "https://www.play-games.com/sitemap.xml"
+    enabled: true
+  - name: "zh-y8"
+    url: "https://zh.y8.com/sitemaps/y8/zh/sitemap.xml.gz"
+    enabled: true
+  - name: "yandex-games"
+    url: "https://yandex.com/games/sitemaps/sitemap.index.xml"
+    enabled: true
+  - name: "itch"
+    url: "https://itch.io/sitemap.xml"
+    enabled: true
+  - name: "igroutka"
+    url: "https://igroutka.ru/uploads/sitemap.xml"
+    enabled: true
+  - name: "gamonl"
+    url: "https://gam.onl/sitemap.txt"
+    enabled: true
