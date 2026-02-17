@@ -1,6 +1,13 @@
 interval_minutes: 5
 request_timeout_sec: 20
 user_agent: "sitemap-monitor/1.0"
+html_report:
+  enabled: true
+  output_dir: "./data/reports_html"
+telegram:
+  enabled: false
+  bot_token: null
+  chat_id: null
 targets:
   - name: "gamemonetize"
     url: "https://gamemonetize.com/sitemap.xml"

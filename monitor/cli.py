@@ -10,10 +10,12 @@ from monitor.config import load_config
 from monitor.fetcher import SitemapFetcher
 from monitor.heading_parser import extract_heading
 from monitor.local_store import (
+    append_daily_html_report,
     append_daily_report,
     ensure_storage,
     get_previous_urls,
     load_baseline,
+    rebuild_html_reports,
     save_baseline,
     set_current_urls,
 )
@@ -53,6 +55,32 @@ def _google_trends_links(keywords: List[str], batch_size: int = 5) -> List[str]:
     return links
 
 
+def _build_telegram_summary(
+    checked_at: str,
+    updated_targets: int,
+    added_urls_total: int,
+    heading_ok_total: int,
+    heading_failed_total: int,
+    keywords: List[str],
+    trends_links: List[str],
+) -> str:
+    top_keywords = keywords[:10]
+    top_links = trends_links[:3]
+
+    lines = [
+        "Sitemap monitor update",
+        f"Time: {checked_at}",
+        f"Updated targets: {updated_targets}",
+        f"Added URLs: {added_urls_total}",
+        f"Heading ok/failed: {heading_ok_total}/{heading_failed_total}",
+        f"Keywords: {', '.join(top_keywords) if top_keywords else '-'}",
+    ]
+    if top_links:
+        lines.append("Google Trends:")
+        lines.extend(top_links)
+    return "\n".join(lines)
+
+
 def cmd_init_state(args: argparse.Namespace) -> int:
     setup_logging(args.log_level)
     ensure_storage(args.baseline, args.reports_dir)
@@ -90,6 +118,19 @@ def cmd_test_notify(args: argparse.Namespace) -> int:
         return 1
     finally:
         notifier.close()
+
+
+def cmd_html_rebuild(args: argparse.Namespace) -> int:
+    setup_logging(args.log_level)
+    generated = rebuild_html_reports(output_dir=args.output_dir, reports_dir=args.reports_dir)
+    LOGGER.info(
+        "HTML rebuild done: reports_dir=%s output_dir=%s daily_files=%s index=%s",
+        args.reports_dir,
+        args.output_dir,
+        generated,
+        f"{args.output_dir}/index.html",
+    )
+    return 0
 
 
 def _process_target(
@@ -201,6 +242,7 @@ def cmd_run_once(args: argparse.Namespace) -> int:
         return 0
 
     fetcher = SitemapFetcher(timeout_sec=config.request_timeout_sec, user_agent=config.user_agent)
+    notifier = WebhookNotifier(timeout_sec=config.request_timeout_sec)
     try:
         target_reports: List[Dict[str, Any]] = []
         for target in enabled_targets:
@@ -215,6 +257,7 @@ def cmd_run_once(args: argparse.Namespace) -> int:
             )
     finally:
         fetcher.close()
+        notifier.close()
 
     save_baseline(args.baseline, baseline)
 
@@ -259,6 +302,31 @@ def cmd_run_once(args: argparse.Namespace) -> int:
             "targets": updated_targets,
         }
         report_path = append_daily_report(args.reports_dir, checked_at, run_report)
+        if config.html_report.enabled:
+            run_report["_report_json_path"] = str(report_path)
+            html_path = append_daily_html_report(config.html_report.output_dir, checked_at, run_report)
+            LOGGER.info("HTML report updated: %s", html_path)
+
+        if config.telegram.enabled:
+            if config.telegram.bot_token and config.telegram.chat_id:
+                telegram_text = _build_telegram_summary(
+                    checked_at=checked_at,
+                    updated_targets=len(updated_targets),
+                    added_urls_total=added_urls_total,
+                    heading_ok_total=heading_ok_total,
+                    heading_failed_total=heading_failed_total,
+                    keywords=global_keywords,
+                    trends_links=trends_links,
+                )
+                sent = notifier.send_telegram(
+                    bot_token=config.telegram.bot_token,
+                    chat_id=config.telegram.chat_id,
+                    text=telegram_text,
+                )
+                if not sent:
+                    LOGGER.warning("Telegram notification failed")
+            else:
+                LOGGER.warning("Telegram enabled but bot_token/chat_id missing, skip notification")
         LOGGER.info(
             "Run done: processed=%s updated_targets=%s added_urls_total=%s report=%s",
             len(target_reports),
@@ -302,6 +370,11 @@ def build_parser() -> argparse.ArgumentParser:
     test_notify.add_argument("--config", required=True, help="Path to config YAML")
     test_notify.add_argument("--target", required=True, help="Target name")
     test_notify.set_defaults(func=cmd_test_notify)
+
+    html_rebuild = subparsers.add_parser("html-rebuild", help="Rebuild HTML reports from daily JSON files")
+    html_rebuild.add_argument("--reports-dir", default="./data/reports", help="Daily JSON reports directory")
+    html_rebuild.add_argument("--output-dir", default="./data/reports_html", help="HTML reports output directory")
+    html_rebuild.set_defaults(func=cmd_html_rebuild)
 
     return parser
 

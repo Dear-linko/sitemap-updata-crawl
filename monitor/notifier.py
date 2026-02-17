@@ -51,6 +51,48 @@ class WebhookNotifier:
 
         return False
 
+    def send_telegram(self, bot_token: str, chat_id: str, text: str) -> bool:
+        token = bot_token.strip()
+        target_chat = chat_id.strip()
+        if not token or not target_chat:
+            LOGGER.error("Telegram token/chat_id is empty")
+            return False
+
+        telegram_url = f"https://api.telegram.org/bot{token}/sendMessage"
+        payload = {
+            "chat_id": target_chat,
+            "text": text,
+            "disable_web_page_preview": True,
+        }
+
+        for attempt in range(1, 4):
+            try:
+                response = self.client.post(telegram_url, json=payload)
+                if 200 <= response.status_code < 300:
+                    return True
+
+                if response.status_code == 429:
+                    retry_after = response.headers.get("Retry-After")
+                    sleep_s = int(retry_after) if retry_after and retry_after.isdigit() else 2 ** (attempt - 1)
+                    LOGGER.warning("Telegram rate limited, retry in %ss", sleep_s)
+                    time.sleep(sleep_s)
+                    continue
+
+                if response.status_code >= 500:
+                    sleep_s = 2 ** (attempt - 1)
+                    LOGGER.warning("Telegram 5xx, retry in %ss", sleep_s)
+                    time.sleep(sleep_s)
+                    continue
+
+                LOGGER.error("Telegram rejected request: status=%s", response.status_code)
+                return False
+            except httpx.HTTPError as exc:
+                sleep_s = 2 ** (attempt - 1)
+                LOGGER.warning("Telegram HTTP error: %s; retry in %ss", exc, sleep_s)
+                time.sleep(sleep_s)
+
+        return False
+
 
 def _mask_url(url: str) -> str:
     if len(url) <= 10:

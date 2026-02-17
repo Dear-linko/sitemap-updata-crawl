@@ -12,6 +12,19 @@ class TargetConfig:
     enabled: bool = True
 
 
+@dataclass(frozen=True)
+class HtmlReportConfig:
+    enabled: bool = False
+    output_dir: str = "./data/reports_html"
+
+
+@dataclass(frozen=True)
+class TelegramConfig:
+    enabled: bool = False
+    bot_token: Optional[str] = None
+    chat_id: Optional[str] = None
+
+
 @dataclass
 class FetchResult:
     etag: Optional[str] = None
