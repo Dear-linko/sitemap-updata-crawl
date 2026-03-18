@@ -1,1 +1,0 @@
-"""Sitemap monitor package."""
