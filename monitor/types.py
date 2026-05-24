@@ -15,7 +15,7 @@ class TargetConfig:
 @dataclass(frozen=True)
 class HtmlReportConfig:
     enabled: bool = False
-    output_dir: str = "./data/reports_html"
+    output_dir: str = "./docs"
 
 
 @dataclass(frozen=True)
