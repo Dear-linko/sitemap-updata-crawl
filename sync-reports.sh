@@ -1,9 +1,10 @@
 #!/bin/bash
-# Sync sitemap monitor reports to public GitHub Pages
+# Run the sitemap monitor and publish HTML reports via GitHub Pages.
+# Reports now live in this repo under ./docs (Pages source: main branch /docs),
+# so there is no separate reports repository to push to.
 set -euo pipefail
 shopt -s nullglob
 
-REPO_DIR="$HOME/Projects/sitemap-updata-crawl-reports"
 MONITOR_DIR="$HOME/Projects/sitemap-updata-crawl"
 LOCK_DIR="${TMPDIR:-/tmp}/sitemap-updata-crawl.lock"
 
@@ -41,7 +42,7 @@ push_with_retry() {
 
 cd "$MONITOR_DIR" || exit 1
 
-# Run the monitor
+# Run the monitor (writes HTML directly into ./docs via config.yaml output_dir)
 source .venv/bin/activate
 if python -m monitor run-once --config ./config.yaml --baseline ./data/baseline.json --reports-dir ./data/reports; then
     EXIT_CODE=0
@@ -51,38 +52,27 @@ else
     exit "$EXIT_CODE"
 fi
 
-# Rebuild the index and sync whatever is already local. This also retries
-# reports commits left behind by an earlier network failure.
+# Rebuild the index so it reflects whatever daily pages are present locally.
 python -c "
 from monitor.local_store import _render_html_index, _write_text
 from pathlib import Path
-output_root = Path('data/reports_html')
+output_root = Path('docs')
 _write_text(output_root / 'index.html', _render_html_index(output_root))
 "
 
-if [ -f data/reports_html/index.html ]; then
-    cp data/reports_html/index.html "$REPO_DIR/"
-fi
-
-daily_pages=(data/reports_html/daily/*.html)
-if [ "${#daily_pages[@]}" -gt 0 ]; then
-    cp "${daily_pages[@]}" "$REPO_DIR/daily/"
-fi
-
 # Commit and push (embed token in URL for cron/headless compatibility)
-cd "$REPO_DIR"
 GH_TOKEN=$(GH_CONFIG_DIR=~/.config/gh-file /Users/liike/.local/bin/gh auth token 2>/dev/null)
 if [ -z "$GH_TOKEN" ]; then
     echo "[error] Failed to get GitHub token"
     exit 1
 fi
-PUSH_URL="https://Dear-linko:${GH_TOKEN}@github.com/Dear-linko/sitemap-updata-crawl-reports.git"
-git add daily/ index.html
+PUSH_URL="https://Dear-linko:${GH_TOKEN}@github.com/Dear-linko/sitemap-updata-crawl.git"
+git add docs/ data/
 if ! git diff --cached --quiet; then
     git commit -m "Auto-update: $(date +%Y-%m-%d)"
+    push_with_retry
 else
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] no report changes to commit"
 fi
-push_with_retry
 
 exit $EXIT_CODE
