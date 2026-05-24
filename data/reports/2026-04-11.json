@@ -1,0 +1,1609 @@
+[
+  {
+    "checked_at": "2026-04-11T11:31:13.209509+00:00",
+    "summary": {
+      "processed": 3,
+      "updated_targets": 2,
+      "added_urls_total": 52,
+      "errors": 0,
+      "heading_ok_total": 52,
+      "heading_failed_total": 0
+    },
+    "keywords": {
+      "keywords": [
+        "Batteries Inside",
+        "Deckweave",
+        "Deviled Dice",
+        "ELEMENTAL CROSSING",
+        "From Point To Point",
+        "Let It Consume",
+        "Mimic Classic",
+        "Pinball with a Gun - Demo",
+        "Recommended Games",
+        "ZS Dead Detective - Back From The Dead",
+        "Scrap Protocol",
+        "Slime Fight Club",
+        "Sportaldislexicartaphobia - Demo",
+        "Adventure Miner",
+        "Alien Raid Monster Evolution",
+        "Astro Rancher",
+        "Blast Buddies",
+        "Bot Crash Combat Arena",
+        "Bubble Tower",
+        "Bunny Miner",
+        "Carnado Bike Stunt",
+        "Cleanup Crew",
+        "Count War",
+        "Cozyville - Find Hidden Objects",
+        "Crazy Merge",
+        "Dino Fighter",
+        "DIY Desk Designer",
+        "Fashion Legends",
+        "Fashion Tour Simulator",
+        "Freaky Clown Town Mystery",
+        "Free Skate",
+        "Going Up Rooftop",
+        "Shooting Games",
+        "Knockout Penguins",
+        "KPop Concert Dress Up",
+        "Lips Diy Master",
+        "Magic Battleground",
+        "Merge Ink",
+        "Pixel Perfect",
+        "Punchy Guy",
+        "Rail in the Air",
+        "Real City Bikes",
+        "Skill Knight",
+        "Snacky Snake",
+        "Soccer Skills 2 World Cup",
+        "Sprunki",
+        "Tictoc Catwalk Fashion",
+        "Tower Emoji Defense",
+        "Tricky Witch",
+        "Tuning Car Racing",
+        "Wreck The Robot",
+        "Zombie Merge"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Batteries%20Inside,Deckweave,Deviled%20Dice,ELEMENTAL%20CROSSING,From%20Point%20To%20Point",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Let%20It%20Consume,Mimic%20Classic,Pinball%20with%20a%20Gun%20-%20Demo,Recommended%20Games,ZS%20Dead%20Detective%20-%20Back%20From%20The%20Dead",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Scrap%20Protocol,Slime%20Fight%20Club,Sportaldislexicartaphobia%20-%20Demo,Adventure%20Miner,Alien%20Raid%20Monster%20Evolution",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Astro%20Rancher,Blast%20Buddies,Bot%20Crash%20Combat%20Arena,Bubble%20Tower,Bunny%20Miner",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Carnado%20Bike%20Stunt,Cleanup%20Crew,Count%20War,Cozyville%20-%20Find%20Hidden%20Objects,Crazy%20Merge",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dino%20Fighter,DIY%20Desk%20Designer,Fashion%20Legends,Fashion%20Tour%20Simulator,Freaky%20Clown%20Town%20Mystery",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Free%20Skate,Going%20Up%20Rooftop,Shooting%20Games,Knockout%20Penguins,KPop%20Concert%20Dress%20Up",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Lips%20Diy%20Master,Magic%20Battleground,Merge%20Ink,Pixel%20Perfect,Punchy%20Guy",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Rail%20in%20the%20Air,Real%20City%20Bikes,Skill%20Knight,Snacky%20Snake,Soccer%20Skills%202%20World%20Cup",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Sprunki,Tictoc%20Catwalk%20Fashion,Tower%20Emoji%20Defense,Tricky%20Witch,Tuning%20Car%20Racing",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Wreck%20The%20Robot,Zombie%20Merge"
+    ],
+    "targets": [
+      {
+        "name": "armorgames",
+        "url": "https://armorgames.com/sitemap",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5456,
+        "added_count": 13,
+        "added_urls": [
+          "https://armorgames.com/batteries-inside-game/19656",
+          "https://armorgames.com/deckweave-game/19663",
+          "https://armorgames.com/deviled-dice-game/19671",
+          "https://armorgames.com/elemental-crossing-game/19661",
+          "https://armorgames.com/from-point-to-point-game/19674",
+          "https://armorgames.com/let-it-consume-game/19665",
+          "https://armorgames.com/mimic-classic-game/19667",
+          "https://armorgames.com/pinball-with-a-gun-demo-game/19672",
+          "https://armorgames.com/play/16134/building-rush-2",
+          "https://armorgames.com/play/19673/zs-dead-detective-back-from-the-dead",
+          "https://armorgames.com/scrap-protocol-game/19657",
+          "https://armorgames.com/slime-fight-club-game/19662",
+          "https://armorgames.com/sportaldislexicartaphobia-demo-game/19670"
+        ],
+        "heading_results": [
+          {
+            "url": "https://armorgames.com/batteries-inside-game/19656",
+            "http_status": 200,
+            "heading": "Batteries Inside",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/deckweave-game/19663",
+            "http_status": 200,
+            "heading": "Deckweave",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/deviled-dice-game/19671",
+            "http_status": 200,
+            "heading": "Deviled Dice",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/elemental-crossing-game/19661",
+            "http_status": 200,
+            "heading": "ELEMENTAL CROSSING",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/from-point-to-point-game/19674",
+            "http_status": 200,
+            "heading": "From Point To Point",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/let-it-consume-game/19665",
+            "http_status": 200,
+            "heading": "Let It Consume",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/mimic-classic-game/19667",
+            "http_status": 200,
+            "heading": "Mimic Classic",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/pinball-with-a-gun-demo-game/19672",
+            "http_status": 200,
+            "heading": "Pinball with a Gun - Demo",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/play/16134/building-rush-2",
+            "http_status": 200,
+            "heading": "Recommended Games",
+            "heading_tag": "h2",
+            "ok": true,
+            "reason": "ok_h2"
+          },
+          {
+            "url": "https://armorgames.com/play/19673/zs-dead-detective-back-from-the-dead",
+            "http_status": 200,
+            "heading": "ZS Dead Detective - Back From The Dead",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/scrap-protocol-game/19657",
+            "http_status": 200,
+            "heading": "Scrap Protocol",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/slime-fight-club-game/19662",
+            "http_status": 200,
+            "heading": "Slime Fight Club",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/sportaldislexicartaphobia-demo-game/19670",
+            "http_status": 200,
+            "heading": "Sportaldislexicartaphobia - Demo",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Batteries Inside",
+            "Deckweave",
+            "Deviled Dice",
+            "ELEMENTAL CROSSING",
+            "From Point To Point",
+            "Let It Consume",
+            "Mimic Classic",
+            "Pinball with a Gun - Demo",
+            "Recommended Games",
+            "ZS Dead Detective - Back From The Dead",
+            "Scrap Protocol",
+            "Slime Fight Club",
+            "Sportaldislexicartaphobia - Demo"
+          ]
+        },
+        "checked_at": "2026-04-11T11:31:13.209509+00:00"
+      },
+      {
+        "name": "poki-games",
+        "url": "https://poki.com/en/sitemaps/games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1599,
+        "added_count": 39,
+        "added_urls": [
+          "https://poki.com/en/g/adventure-miner",
+          "https://poki.com/en/g/alien-raid-monster-evolution",
+          "https://poki.com/en/g/astro-rancher",
+          "https://poki.com/en/g/blast-buddies",
+          "https://poki.com/en/g/bot-crash-combat-arena",
+          "https://poki.com/en/g/bubble-tower",
+          "https://poki.com/en/g/bunny-miner",
+          "https://poki.com/en/g/carnado-bike-stunt",
+          "https://poki.com/en/g/cleanup-crew",
+          "https://poki.com/en/g/count-war",
+          "https://poki.com/en/g/cozyville-find-hidden-objects",
+          "https://poki.com/en/g/crazy-merge",
+          "https://poki.com/en/g/dino-fighter",
+          "https://poki.com/en/g/diy-desk-designer",
+          "https://poki.com/en/g/fashion-legends",
+          "https://poki.com/en/g/fashion-tour-simulator",
+          "https://poki.com/en/g/freaky-clown-town-mystery",
+          "https://poki.com/en/g/free-skate",
+          "https://poki.com/en/g/going-up-rooftop",
+          "https://poki.com/en/g/guns-guns-guns",
+          "https://poki.com/en/g/knockout-penguins",
+          "https://poki.com/en/g/kpop-concert-dress-up",
+          "https://poki.com/en/g/lips-diy-master",
+          "https://poki.com/en/g/magic-battleground",
+          "https://poki.com/en/g/merge-ink",
+          "https://poki.com/en/g/pixel-perfect",
+          "https://poki.com/en/g/punchy-guy",
+          "https://poki.com/en/g/rail-in-the-air",
+          "https://poki.com/en/g/real-city-bikes",
+          "https://poki.com/en/g/skill-knight",
+          "https://poki.com/en/g/snacky-snake",
+          "https://poki.com/en/g/soccer-skills-2-world-cup",
+          "https://poki.com/en/g/sprunki",
+          "https://poki.com/en/g/tictoc-catwalk-fashion",
+          "https://poki.com/en/g/tower-emoji-defense",
+          "https://poki.com/en/g/tricky-witch",
+          "https://poki.com/en/g/tuning-car-racing",
+          "https://poki.com/en/g/wreck-the-robot",
+          "https://poki.com/en/g/zombie-merge"
+        ],
+        "heading_results": [
+          {
+            "url": "https://poki.com/en/g/adventure-miner",
+            "http_status": 200,
+            "heading": "Adventure Miner",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/alien-raid-monster-evolution",
+            "http_status": 200,
+            "heading": "Alien Raid Monster Evolution",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/astro-rancher",
+            "http_status": 200,
+            "heading": "Astro Rancher",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/blast-buddies",
+            "http_status": 200,
+            "heading": "Blast Buddies",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/bot-crash-combat-arena",
+            "http_status": 200,
+            "heading": "Bot Crash Combat Arena",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/bubble-tower",
+            "http_status": 200,
+            "heading": "Bubble Tower",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/bunny-miner",
+            "http_status": 200,
+            "heading": "Bunny Miner",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/carnado-bike-stunt",
+            "http_status": 200,
+            "heading": "Carnado Bike Stunt",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/cleanup-crew",
+            "http_status": 200,
+            "heading": "Cleanup Crew",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/count-war",
+            "http_status": 200,
+            "heading": "Count War",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/cozyville-find-hidden-objects",
+            "http_status": 200,
+            "heading": "Cozyville - Find Hidden Objects",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/crazy-merge",
+            "http_status": 200,
+            "heading": "Crazy Merge",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/dino-fighter",
+            "http_status": 200,
+            "heading": "Dino Fighter",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/diy-desk-designer",
+            "http_status": 200,
+            "heading": "DIY Desk Designer",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/fashion-legends",
+            "http_status": 200,
+            "heading": "Fashion Legends",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/fashion-tour-simulator",
+            "http_status": 200,
+            "heading": "Fashion Tour Simulator",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/freaky-clown-town-mystery",
+            "http_status": 200,
+            "heading": "Freaky Clown Town Mystery",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/free-skate",
+            "http_status": 200,
+            "heading": "Free Skate",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/going-up-rooftop",
+            "http_status": 200,
+            "heading": "Going Up Rooftop",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/guns-guns-guns",
+            "http_status": 200,
+            "heading": "Shooting Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/knockout-penguins",
+            "http_status": 200,
+            "heading": "Knockout Penguins",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/kpop-concert-dress-up",
+            "http_status": 200,
+            "heading": "KPop Concert Dress Up",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/lips-diy-master",
+            "http_status": 200,
+            "heading": "Lips Diy Master",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/magic-battleground",
+            "http_status": 200,
+            "heading": "Magic Battleground",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/merge-ink",
+            "http_status": 200,
+            "heading": "Merge Ink",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/pixel-perfect",
+            "http_status": 200,
+            "heading": "Pixel Perfect",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/punchy-guy",
+            "http_status": 200,
+            "heading": "Punchy Guy",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/rail-in-the-air",
+            "http_status": 200,
+            "heading": "Rail in the Air",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/real-city-bikes",
+            "http_status": 200,
+            "heading": "Real City Bikes",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/skill-knight",
+            "http_status": 200,
+            "heading": "Skill Knight",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/snacky-snake",
+            "http_status": 200,
+            "heading": "Snacky Snake",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/soccer-skills-2-world-cup",
+            "http_status": 200,
+            "heading": "Soccer Skills 2 World Cup",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/sprunki",
+            "http_status": 200,
+            "heading": "Sprunki",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/tictoc-catwalk-fashion",
+            "http_status": 200,
+            "heading": "Tictoc Catwalk Fashion",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/tower-emoji-defense",
+            "http_status": 200,
+            "heading": "Tower Emoji Defense",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/tricky-witch",
+            "http_status": 200,
+            "heading": "Tricky Witch",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/tuning-car-racing",
+            "http_status": 200,
+            "heading": "Tuning Car Racing",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/wreck-the-robot",
+            "http_status": 200,
+            "heading": "Wreck The Robot",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/zombie-merge",
+            "http_status": 200,
+            "heading": "Zombie Merge",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Adventure Miner",
+            "Alien Raid Monster Evolution",
+            "Astro Rancher",
+            "Blast Buddies",
+            "Bot Crash Combat Arena",
+            "Bubble Tower",
+            "Bunny Miner",
+            "Carnado Bike Stunt",
+            "Cleanup Crew",
+            "Count War",
+            "Cozyville - Find Hidden Objects",
+            "Crazy Merge",
+            "Dino Fighter",
+            "DIY Desk Designer",
+            "Fashion Legends",
+            "Fashion Tour Simulator",
+            "Freaky Clown Town Mystery",
+            "Free Skate",
+            "Going Up Rooftop",
+            "Shooting Games",
+            "Knockout Penguins",
+            "KPop Concert Dress Up",
+            "Lips Diy Master",
+            "Magic Battleground",
+            "Merge Ink",
+            "Pixel Perfect",
+            "Punchy Guy",
+            "Rail in the Air",
+            "Real City Bikes",
+            "Skill Knight",
+            "Snacky Snake",
+            "Soccer Skills 2 World Cup",
+            "Sprunki",
+            "Tictoc Catwalk Fashion",
+            "Tower Emoji Defense",
+            "Tricky Witch",
+            "Tuning Car Racing",
+            "Wreck The Robot",
+            "Zombie Merge"
+          ]
+        },
+        "checked_at": "2026-04-11T11:31:13.209509+00:00"
+      }
+    ]
+  },
+  {
+    "checked_at": "2026-04-11T14:30:01.292579+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 1,
+      "added_urls_total": 78,
+      "errors": 1,
+      "heading_ok_total": 78,
+      "heading_failed_total": 0
+    },
+    "keywords": {
+      "keywords": [
+        "A.P.B. (Lynx) Play Online",
+        "Awesome Golf (Lynx) Play Online",
+        "Baseball Heroes (Lynx) Play Online",
+        "Basketbrawl (Lynx) Play Online",
+        "Battle Wheels (Lynx) Play Online",
+        "Battlezone 2000 (Lynx) Play Online",
+        "Bill & Ted's Excellent Adventure (Lynx) Play Online",
+        "Block Out (Lynx) Play Online",
+        "Blue Lightning (Lynx) Play Online",
+        "Bubble Trouble (Lynx) Play Online",
+        "California Games (Lynx) Play Online",
+        "Centipede (Lynx) Play Online",
+        "Checkered Flag (Lynx) Play Online",
+        "Chip's Challenge (Lynx) Play Online",
+        "Conquest of Zow (Lynx) Play Online",
+        "Crystal Mines 2 (Lynx) Play Online",
+        "Desert Strike (Lynx) Play Online",
+        "Dinolympics (Lynx) Play Online",
+        "Dirty Larry: Renegade Cop (Lynx) Play Online",
+        "Dracula the Undead (Lynx) Play Online",
+        "Dragnet (Lynx) Play Online",
+        "Electrocop (Lynx) Play Online",
+        "European Soccer Challenge (Lynx) Play Online",
+        "Fat Bobby (Lynx) Play Online",
+        "Fidelity: Ultimate Chess Challenge (Lynx) Play Online",
+        "Gates of Zendocon (Lynx) Play Online",
+        "Gauntlet (Lynx) Play Online",
+        "Gordo 106 (Lynx) Play Online",
+        "Hard Drivin' (Lynx) Play Online",
+        "Hockey (Lynx) Play Online",
+        "Hydra (Lynx) Play Online",
+        "Ishido: The Way of Stones (Lynx) Play Online",
+        "Jimmy Connors' Tennis (Lynx) Play Online",
+        "Joust (Lynx) Play Online",
+        "Klax (Lynx) Play Online",
+        "Krazy Ace Miniature Golf (Lynx) Play Online",
+        "Kung Food (Lynx) Play Online",
+        "Lemmings (Lynx) Play Online",
+        "Lexis (Lynx) Play Online",
+        "Lode Runner (Lynx) Play Online",
+        "Loopz (Lynx) Play Online",
+        "Lynx Casino (Lynx) Play Online",
+        "Malibu Bikini Volleyball (Lynx) Play Online",
+        "Marlboro Go! (Lynx) Play Online",
+        "NFL Football (Lynx) Play Online",
+        "Ninja Gaiden 3 (Lynx) Play Online",
+        "Ninja Gaiden (Lynx) Play Online",
+        "Paperboy (Lynx) Play Online",
+        "Pinball Jam (Lynx) Play Online",
+        "Pit-Fighter (Lynx) Play Online",
+        "Power Factor (Lynx) Play Online",
+        "Qix (Lynx) Play Online",
+        "Raiden (Lynx) Play Online",
+        "Rampage (Lynx) Play Online",
+        "RoadBlasters (Lynx) Play Online",
+        "Road Riot 4WD (Lynx) Play Online",
+        "Robo-Squash (Lynx) Play Online",
+        "Robotron: 2084 (Lynx) Play Online",
+        "Rygar (Lynx) Play Online",
+        "Scrapyard Dog (Lynx) Play Online",
+        "Shadow of the Beast (Lynx) Play Online",
+        "Shanghai (Lynx) Play Online",
+        "Steel Talons (Lynx) Play Online",
+        "Super Asteroids & Missile Command (Lynx) Play Online",
+        "Super Off Road (Lynx) Play Online",
+        "Super Skweek (Lynx) Play Online",
+        "Switchblade 2 (Lynx) Play Online",
+        "T-Tris (Lynx) Play Online",
+        "Todd's Adventures in Slime World (Lynx) Play Online",
+        "Toki (Lynx) Play Online",
+        "Tournament Cyberball (Lynx) Play Online",
+        "Turbo Sub (Lynx) Play Online",
+        "Viking Child (Lynx) Play Online",
+        "Warbirds (Lynx) Play Online",
+        "World Class Soccer (Lynx) Play Online",
+        "Xenophobe (Lynx) Play Online",
+        "Xybots (Lynx) Play Online",
+        "Zarlor Mercenary (Lynx) Play Online"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=A.P.B.%20%28Lynx%29%20Play%20Online,Awesome%20Golf%20%28Lynx%29%20Play%20Online,Baseball%20Heroes%20%28Lynx%29%20Play%20Online,Basketbrawl%20%28Lynx%29%20Play%20Online,Battle%20Wheels%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Battlezone%202000%20%28Lynx%29%20Play%20Online,Bill%20%26%20Ted%27s%20Excellent%20Adventure%20%28Lynx%29%20Play%20Online,Block%20Out%20%28Lynx%29%20Play%20Online,Blue%20Lightning%20%28Lynx%29%20Play%20Online,Bubble%20Trouble%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=California%20Games%20%28Lynx%29%20Play%20Online,Centipede%20%28Lynx%29%20Play%20Online,Checkered%20Flag%20%28Lynx%29%20Play%20Online,Chip%27s%20Challenge%20%28Lynx%29%20Play%20Online,Conquest%20of%20Zow%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Crystal%20Mines%202%20%28Lynx%29%20Play%20Online,Desert%20Strike%20%28Lynx%29%20Play%20Online,Dinolympics%20%28Lynx%29%20Play%20Online,Dirty%20Larry%3A%20Renegade%20Cop%20%28Lynx%29%20Play%20Online,Dracula%20the%20Undead%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dragnet%20%28Lynx%29%20Play%20Online,Electrocop%20%28Lynx%29%20Play%20Online,European%20Soccer%20Challenge%20%28Lynx%29%20Play%20Online,Fat%20Bobby%20%28Lynx%29%20Play%20Online,Fidelity%3A%20Ultimate%20Chess%20Challenge%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Gates%20of%20Zendocon%20%28Lynx%29%20Play%20Online,Gauntlet%20%28Lynx%29%20Play%20Online,Gordo%20106%20%28Lynx%29%20Play%20Online,Hard%20Drivin%27%20%28Lynx%29%20Play%20Online,Hockey%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hydra%20%28Lynx%29%20Play%20Online,Ishido%3A%20The%20Way%20of%20Stones%20%28Lynx%29%20Play%20Online,Jimmy%20Connors%27%20Tennis%20%28Lynx%29%20Play%20Online,Joust%20%28Lynx%29%20Play%20Online,Klax%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Krazy%20Ace%20Miniature%20Golf%20%28Lynx%29%20Play%20Online,Kung%20Food%20%28Lynx%29%20Play%20Online,Lemmings%20%28Lynx%29%20Play%20Online,Lexis%20%28Lynx%29%20Play%20Online,Lode%20Runner%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Loopz%20%28Lynx%29%20Play%20Online,Lynx%20Casino%20%28Lynx%29%20Play%20Online,Malibu%20Bikini%20Volleyball%20%28Lynx%29%20Play%20Online,Marlboro%20Go%21%20%28Lynx%29%20Play%20Online,NFL%20Football%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Ninja%20Gaiden%203%20%28Lynx%29%20Play%20Online,Ninja%20Gaiden%20%28Lynx%29%20Play%20Online,Paperboy%20%28Lynx%29%20Play%20Online,Pinball%20Jam%20%28Lynx%29%20Play%20Online,Pit-Fighter%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Power%20Factor%20%28Lynx%29%20Play%20Online,Qix%20%28Lynx%29%20Play%20Online,Raiden%20%28Lynx%29%20Play%20Online,Rampage%20%28Lynx%29%20Play%20Online,RoadBlasters%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Road%20Riot%204WD%20%28Lynx%29%20Play%20Online,Robo-Squash%20%28Lynx%29%20Play%20Online,Robotron%3A%202084%20%28Lynx%29%20Play%20Online,Rygar%20%28Lynx%29%20Play%20Online,Scrapyard%20Dog%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Shadow%20of%20the%20Beast%20%28Lynx%29%20Play%20Online,Shanghai%20%28Lynx%29%20Play%20Online,Steel%20Talons%20%28Lynx%29%20Play%20Online,Super%20Asteroids%20%26%20Missile%20Command%20%28Lynx%29%20Play%20Online,Super%20Off%20Road%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Super%20Skweek%20%28Lynx%29%20Play%20Online,Switchblade%202%20%28Lynx%29%20Play%20Online,T-Tris%20%28Lynx%29%20Play%20Online,Todd%27s%20Adventures%20in%20Slime%20World%20%28Lynx%29%20Play%20Online,Toki%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Tournament%20Cyberball%20%28Lynx%29%20Play%20Online,Turbo%20Sub%20%28Lynx%29%20Play%20Online,Viking%20Child%20%28Lynx%29%20Play%20Online,Warbirds%20%28Lynx%29%20Play%20Online,World%20Class%20Soccer%20%28Lynx%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Xenophobe%20%28Lynx%29%20Play%20Online,Xybots%20%28Lynx%29%20Play%20Online,Zarlor%20Mercenary%20%28Lynx%29%20Play%20Online"
+    ],
+    "targets": [
+      {
+        "name": "gamonl",
+        "url": "https://gam.onl/sitemap.txt",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 16884,
+        "added_count": 78,
+        "added_urls": [
+          "https://gam.onl/atari-lynx/apb-all-points-bulletin.html",
+          "https://gam.onl/atari-lynx/awesome-golf.html",
+          "https://gam.onl/atari-lynx/baseball-heroes.html",
+          "https://gam.onl/atari-lynx/basketbrawl.html",
+          "https://gam.onl/atari-lynx/battle-wheels.html",
+          "https://gam.onl/atari-lynx/battlezone-2000.html",
+          "https://gam.onl/atari-lynx/bill-and-ted-excellent-adventure.html",
+          "https://gam.onl/atari-lynx/block-out.html",
+          "https://gam.onl/atari-lynx/blue-lightning.html",
+          "https://gam.onl/atari-lynx/bubble-trouble.html",
+          "https://gam.onl/atari-lynx/california-games.html",
+          "https://gam.onl/atari-lynx/centipede.html",
+          "https://gam.onl/atari-lynx/checkered-flag.html",
+          "https://gam.onl/atari-lynx/chips-challenge.html",
+          "https://gam.onl/atari-lynx/conquest-of-zow.html",
+          "https://gam.onl/atari-lynx/crystal-mines-2.html",
+          "https://gam.onl/atari-lynx/desert-strike.html",
+          "https://gam.onl/atari-lynx/dinolympics.html",
+          "https://gam.onl/atari-lynx/dirty-larry-renegade-cop.html",
+          "https://gam.onl/atari-lynx/dracula-the-undead.html",
+          "https://gam.onl/atari-lynx/dragnet.html",
+          "https://gam.onl/atari-lynx/electrocop.html",
+          "https://gam.onl/atari-lynx/european-soccer-challenge.html",
+          "https://gam.onl/atari-lynx/fat-bobby.html",
+          "https://gam.onl/atari-lynx/fidelity-ultimate-chess-challenge.html",
+          "https://gam.onl/atari-lynx/gates-of-zendocon.html",
+          "https://gam.onl/atari-lynx/gauntlet-the-third-encounter.html",
+          "https://gam.onl/atari-lynx/gordo-106.html",
+          "https://gam.onl/atari-lynx/hard-drivin.html",
+          "https://gam.onl/atari-lynx/hockey.html",
+          "https://gam.onl/atari-lynx/hydra.html",
+          "https://gam.onl/atari-lynx/ishido-the-way-of-stones.html",
+          "https://gam.onl/atari-lynx/jimmy-connors-tennis.html",
+          "https://gam.onl/atari-lynx/joust.html",
+          "https://gam.onl/atari-lynx/klax.html",
+          "https://gam.onl/atari-lynx/krazy-ace-miniature-golf.html",
+          "https://gam.onl/atari-lynx/kung-food.html",
+          "https://gam.onl/atari-lynx/lemmings.html",
+          "https://gam.onl/atari-lynx/lexis.html",
+          "https://gam.onl/atari-lynx/lode-runner.html",
+          "https://gam.onl/atari-lynx/loopz.html",
+          "https://gam.onl/atari-lynx/lynx-casino.html",
+          "https://gam.onl/atari-lynx/malibu-bikini-volleyball.html",
+          "https://gam.onl/atari-lynx/marlboro-go.html",
+          "https://gam.onl/atari-lynx/nfl-football.html",
+          "https://gam.onl/atari-lynx/ninja-gaiden-3.html",
+          "https://gam.onl/atari-lynx/ninja-gaiden.html",
+          "https://gam.onl/atari-lynx/paperboy.html",
+          "https://gam.onl/atari-lynx/pinball-jam.html",
+          "https://gam.onl/atari-lynx/pit-fighter.html",
+          "https://gam.onl/atari-lynx/power-factor.html",
+          "https://gam.onl/atari-lynx/qix.html",
+          "https://gam.onl/atari-lynx/raiden.html",
+          "https://gam.onl/atari-lynx/rampage.html",
+          "https://gam.onl/atari-lynx/road-blasters.html",
+          "https://gam.onl/atari-lynx/road-riot-4wd.html",
+          "https://gam.onl/atari-lynx/robo-squash.html",
+          "https://gam.onl/atari-lynx/robotron-2084.html",
+          "https://gam.onl/atari-lynx/rygar-legendary-warrior.html",
+          "https://gam.onl/atari-lynx/scrapyard-dog.html",
+          "https://gam.onl/atari-lynx/shadow-of-the-beast.html",
+          "https://gam.onl/atari-lynx/shanghai.html",
+          "https://gam.onl/atari-lynx/steel-talons.html",
+          "https://gam.onl/atari-lynx/super-asteroids-and-missile-command.html",
+          "https://gam.onl/atari-lynx/super-off-road.html",
+          "https://gam.onl/atari-lynx/super-skweek.html",
+          "https://gam.onl/atari-lynx/switchblade-2.html",
+          "https://gam.onl/atari-lynx/t-tris.html",
+          "https://gam.onl/atari-lynx/todd-adventures-in-slime-world.html",
+          "https://gam.onl/atari-lynx/toki.html",
+          "https://gam.onl/atari-lynx/tournament-cyberball.html",
+          "https://gam.onl/atari-lynx/turbo-sub.html",
+          "https://gam.onl/atari-lynx/viking-child.html",
+          "https://gam.onl/atari-lynx/warbirds.html",
+          "https://gam.onl/atari-lynx/world-class-soccer.html",
+          "https://gam.onl/atari-lynx/xenophobe.html",
+          "https://gam.onl/atari-lynx/xybots.html",
+          "https://gam.onl/atari-lynx/zarlor-mercenary.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://gam.onl/atari-lynx/apb-all-points-bulletin.html",
+            "http_status": 200,
+            "heading": "A.P.B. (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/awesome-golf.html",
+            "http_status": 200,
+            "heading": "Awesome Golf (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/baseball-heroes.html",
+            "http_status": 200,
+            "heading": "Baseball Heroes (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/basketbrawl.html",
+            "http_status": 200,
+            "heading": "Basketbrawl (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/battle-wheels.html",
+            "http_status": 200,
+            "heading": "Battle Wheels (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/battlezone-2000.html",
+            "http_status": 200,
+            "heading": "Battlezone 2000 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/bill-and-ted-excellent-adventure.html",
+            "http_status": 200,
+            "heading": "Bill & Ted's Excellent Adventure (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/block-out.html",
+            "http_status": 200,
+            "heading": "Block Out (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/blue-lightning.html",
+            "http_status": 200,
+            "heading": "Blue Lightning (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/bubble-trouble.html",
+            "http_status": 200,
+            "heading": "Bubble Trouble (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/california-games.html",
+            "http_status": 200,
+            "heading": "California Games (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/centipede.html",
+            "http_status": 200,
+            "heading": "Centipede (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/checkered-flag.html",
+            "http_status": 200,
+            "heading": "Checkered Flag (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/chips-challenge.html",
+            "http_status": 200,
+            "heading": "Chip's Challenge (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/conquest-of-zow.html",
+            "http_status": 200,
+            "heading": "Conquest of Zow (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/crystal-mines-2.html",
+            "http_status": 200,
+            "heading": "Crystal Mines 2 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/desert-strike.html",
+            "http_status": 200,
+            "heading": "Desert Strike (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/dinolympics.html",
+            "http_status": 200,
+            "heading": "Dinolympics (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/dirty-larry-renegade-cop.html",
+            "http_status": 200,
+            "heading": "Dirty Larry: Renegade Cop (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/dracula-the-undead.html",
+            "http_status": 200,
+            "heading": "Dracula the Undead (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/dragnet.html",
+            "http_status": 200,
+            "heading": "Dragnet (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/electrocop.html",
+            "http_status": 200,
+            "heading": "Electrocop (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/european-soccer-challenge.html",
+            "http_status": 200,
+            "heading": "European Soccer Challenge (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/fat-bobby.html",
+            "http_status": 200,
+            "heading": "Fat Bobby (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/fidelity-ultimate-chess-challenge.html",
+            "http_status": 200,
+            "heading": "Fidelity: Ultimate Chess Challenge (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/gates-of-zendocon.html",
+            "http_status": 200,
+            "heading": "Gates of Zendocon (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/gauntlet-the-third-encounter.html",
+            "http_status": 200,
+            "heading": "Gauntlet (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/gordo-106.html",
+            "http_status": 200,
+            "heading": "Gordo 106 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/hard-drivin.html",
+            "http_status": 200,
+            "heading": "Hard Drivin' (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/hockey.html",
+            "http_status": 200,
+            "heading": "Hockey (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/hydra.html",
+            "http_status": 200,
+            "heading": "Hydra (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/ishido-the-way-of-stones.html",
+            "http_status": 200,
+            "heading": "Ishido: The Way of Stones (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/jimmy-connors-tennis.html",
+            "http_status": 200,
+            "heading": "Jimmy Connors' Tennis (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/joust.html",
+            "http_status": 200,
+            "heading": "Joust (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/klax.html",
+            "http_status": 200,
+            "heading": "Klax (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/krazy-ace-miniature-golf.html",
+            "http_status": 200,
+            "heading": "Krazy Ace Miniature Golf (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/kung-food.html",
+            "http_status": 200,
+            "heading": "Kung Food (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/lemmings.html",
+            "http_status": 200,
+            "heading": "Lemmings (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/lexis.html",
+            "http_status": 200,
+            "heading": "Lexis (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/lode-runner.html",
+            "http_status": 200,
+            "heading": "Lode Runner (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/loopz.html",
+            "http_status": 200,
+            "heading": "Loopz (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/lynx-casino.html",
+            "http_status": 200,
+            "heading": "Lynx Casino (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/malibu-bikini-volleyball.html",
+            "http_status": 200,
+            "heading": "Malibu Bikini Volleyball (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/marlboro-go.html",
+            "http_status": 200,
+            "heading": "Marlboro Go! (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/nfl-football.html",
+            "http_status": 200,
+            "heading": "NFL Football (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/ninja-gaiden-3.html",
+            "http_status": 200,
+            "heading": "Ninja Gaiden 3 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/ninja-gaiden.html",
+            "http_status": 200,
+            "heading": "Ninja Gaiden (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/paperboy.html",
+            "http_status": 200,
+            "heading": "Paperboy (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/pinball-jam.html",
+            "http_status": 200,
+            "heading": "Pinball Jam (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/pit-fighter.html",
+            "http_status": 200,
+            "heading": "Pit-Fighter (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/power-factor.html",
+            "http_status": 200,
+            "heading": "Power Factor (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/qix.html",
+            "http_status": 200,
+            "heading": "Qix (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/raiden.html",
+            "http_status": 200,
+            "heading": "Raiden (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/rampage.html",
+            "http_status": 200,
+            "heading": "Rampage (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/road-blasters.html",
+            "http_status": 200,
+            "heading": "RoadBlasters (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/road-riot-4wd.html",
+            "http_status": 200,
+            "heading": "Road Riot 4WD (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/robo-squash.html",
+            "http_status": 200,
+            "heading": "Robo-Squash (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/robotron-2084.html",
+            "http_status": 200,
+            "heading": "Robotron: 2084 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/rygar-legendary-warrior.html",
+            "http_status": 200,
+            "heading": "Rygar (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/scrapyard-dog.html",
+            "http_status": 200,
+            "heading": "Scrapyard Dog (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/shadow-of-the-beast.html",
+            "http_status": 200,
+            "heading": "Shadow of the Beast (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/shanghai.html",
+            "http_status": 200,
+            "heading": "Shanghai (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/steel-talons.html",
+            "http_status": 200,
+            "heading": "Steel Talons (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/super-asteroids-and-missile-command.html",
+            "http_status": 200,
+            "heading": "Super Asteroids & Missile Command (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/super-off-road.html",
+            "http_status": 200,
+            "heading": "Super Off Road (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/super-skweek.html",
+            "http_status": 200,
+            "heading": "Super Skweek (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/switchblade-2.html",
+            "http_status": 200,
+            "heading": "Switchblade 2 (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/t-tris.html",
+            "http_status": 200,
+            "heading": "T-Tris (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/todd-adventures-in-slime-world.html",
+            "http_status": 200,
+            "heading": "Todd's Adventures in Slime World (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/toki.html",
+            "http_status": 200,
+            "heading": "Toki (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/tournament-cyberball.html",
+            "http_status": 200,
+            "heading": "Tournament Cyberball (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/turbo-sub.html",
+            "http_status": 200,
+            "heading": "Turbo Sub (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/viking-child.html",
+            "http_status": 200,
+            "heading": "Viking Child (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/warbirds.html",
+            "http_status": 200,
+            "heading": "Warbirds (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/world-class-soccer.html",
+            "http_status": 200,
+            "heading": "World Class Soccer (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/xenophobe.html",
+            "http_status": 200,
+            "heading": "Xenophobe (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/xybots.html",
+            "http_status": 200,
+            "heading": "Xybots (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/atari-lynx/zarlor-mercenary.html",
+            "http_status": 200,
+            "heading": "Zarlor Mercenary (Lynx) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "A.P.B. (Lynx) Play Online",
+            "Awesome Golf (Lynx) Play Online",
+            "Baseball Heroes (Lynx) Play Online",
+            "Basketbrawl (Lynx) Play Online",
+            "Battle Wheels (Lynx) Play Online",
+            "Battlezone 2000 (Lynx) Play Online",
+            "Bill & Ted's Excellent Adventure (Lynx) Play Online",
+            "Block Out (Lynx) Play Online",
+            "Blue Lightning (Lynx) Play Online",
+            "Bubble Trouble (Lynx) Play Online",
+            "California Games (Lynx) Play Online",
+            "Centipede (Lynx) Play Online",
+            "Checkered Flag (Lynx) Play Online",
+            "Chip's Challenge (Lynx) Play Online",
+            "Conquest of Zow (Lynx) Play Online",
+            "Crystal Mines 2 (Lynx) Play Online",
+            "Desert Strike (Lynx) Play Online",
+            "Dinolympics (Lynx) Play Online",
+            "Dirty Larry: Renegade Cop (Lynx) Play Online",
+            "Dracula the Undead (Lynx) Play Online",
+            "Dragnet (Lynx) Play Online",
+            "Electrocop (Lynx) Play Online",
+            "European Soccer Challenge (Lynx) Play Online",
+            "Fat Bobby (Lynx) Play Online",
+            "Fidelity: Ultimate Chess Challenge (Lynx) Play Online",
+            "Gates of Zendocon (Lynx) Play Online",
+            "Gauntlet (Lynx) Play Online",
+            "Gordo 106 (Lynx) Play Online",
+            "Hard Drivin' (Lynx) Play Online",
+            "Hockey (Lynx) Play Online",
+            "Hydra (Lynx) Play Online",
+            "Ishido: The Way of Stones (Lynx) Play Online",
+            "Jimmy Connors' Tennis (Lynx) Play Online",
+            "Joust (Lynx) Play Online",
+            "Klax (Lynx) Play Online",
+            "Krazy Ace Miniature Golf (Lynx) Play Online",
+            "Kung Food (Lynx) Play Online",
+            "Lemmings (Lynx) Play Online",
+            "Lexis (Lynx) Play Online",
+            "Lode Runner (Lynx) Play Online",
+            "Loopz (Lynx) Play Online",
+            "Lynx Casino (Lynx) Play Online",
+            "Malibu Bikini Volleyball (Lynx) Play Online",
+            "Marlboro Go! (Lynx) Play Online",
+            "NFL Football (Lynx) Play Online",
+            "Ninja Gaiden 3 (Lynx) Play Online",
+            "Ninja Gaiden (Lynx) Play Online",
+            "Paperboy (Lynx) Play Online",
+            "Pinball Jam (Lynx) Play Online",
+            "Pit-Fighter (Lynx) Play Online",
+            "Power Factor (Lynx) Play Online",
+            "Qix (Lynx) Play Online",
+            "Raiden (Lynx) Play Online",
+            "Rampage (Lynx) Play Online",
+            "RoadBlasters (Lynx) Play Online",
+            "Road Riot 4WD (Lynx) Play Online",
+            "Robo-Squash (Lynx) Play Online",
+            "Robotron: 2084 (Lynx) Play Online",
+            "Rygar (Lynx) Play Online",
+            "Scrapyard Dog (Lynx) Play Online",
+            "Shadow of the Beast (Lynx) Play Online",
+            "Shanghai (Lynx) Play Online",
+            "Steel Talons (Lynx) Play Online",
+            "Super Asteroids & Missile Command (Lynx) Play Online",
+            "Super Off Road (Lynx) Play Online",
+            "Super Skweek (Lynx) Play Online",
+            "Switchblade 2 (Lynx) Play Online",
+            "T-Tris (Lynx) Play Online",
+            "Todd's Adventures in Slime World (Lynx) Play Online",
+            "Toki (Lynx) Play Online",
+            "Tournament Cyberball (Lynx) Play Online",
+            "Turbo Sub (Lynx) Play Online",
+            "Viking Child (Lynx) Play Online",
+            "Warbirds (Lynx) Play Online",
+            "World Class Soccer (Lynx) Play Online",
+            "Xenophobe (Lynx) Play Online",
+            "Xybots (Lynx) Play Online",
+            "Zarlor Mercenary (Lynx) Play Online"
+          ]
+        },
+        "checked_at": "2026-04-11T14:30:01.292579+00:00"
+      }
+    ]
+  },
+  {
+    "checked_at": "2026-04-11T20:45:00.894088+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 1,
+      "added_urls_total": 2,
+      "errors": 1,
+      "heading_ok_total": 1,
+      "heading_failed_total": 1
+    },
+    "keywords": {
+      "keywords": [
+        "FallZone io"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=FallZone%20io"
+    ],
+    "targets": [
+      {
+        "name": "twoplayergames-org",
+        "url": "http://www.twoplayergames.org/sitemap-games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5096,
+        "added_count": 2,
+        "added_urls": [
+          "https://images.twoplayergames.org/files/games/other/fall-zone-io.jpg",
+          "https://www.twoplayergames.org/game/fallzone-io"
+        ],
+        "heading_results": [
+          {
+            "url": "https://images.twoplayergames.org/files/games/other/fall-zone-io.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/fallzone-io",
+            "http_status": 200,
+            "heading": "FallZone io",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "FallZone io"
+          ]
+        },
+        "checked_at": "2026-04-11T20:45:00.894088+00:00"
+      }
+    ]
+  }
+]

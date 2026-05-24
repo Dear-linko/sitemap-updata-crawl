@@ -3,6 +3,8 @@ import json
 from pathlib import Path
 from typing import Optional
 
+import pytest
+
 from monitor import cli
 from monitor.local_store import ensure_storage, load_baseline, save_baseline, set_current_urls
 from monitor.types import FetchResult, HtmlReportConfig, TargetConfig, TelegramConfig
@@ -659,3 +661,112 @@ def test_run_once_no_updates_does_not_write_html(tmp_path: Path, monkeypatch) ->
     )
     assert cli.cmd_run_once(args) == 0
     assert list(html_dir.glob("*.html")) == []
+
+
+def test_run_once_non_2xx_sitemap_does_not_replace_baseline(tmp_path: Path, monkeypatch) -> None:
+    baseline_path = tmp_path / "baseline.json"
+    reports_dir = tmp_path / "reports"
+    ensure_storage(str(baseline_path), str(reports_dir))
+
+    baseline = load_baseline(str(baseline_path))
+    set_current_urls(
+        baseline=baseline,
+        target_name="main",
+        target_url="https://example.com/sitemap.xml",
+        checked_at="2026-02-16T00:00:00+00:00",
+        sitemap_urls=["https://example.com/old"],
+        http_status=200,
+    )
+    save_baseline(str(baseline_path), baseline)
+
+    target = TargetConfig(name="main", url="https://example.com/sitemap.xml", webhook_url=None, enabled=True)
+
+    def fake_load_config(path: str):
+        return _DummyConfig([target])
+
+    class FakeFetcher:
+        def __init__(self, timeout_sec: int, user_agent: str):
+            pass
+
+        def fetch_content_hash(self, url: str) -> FetchResult:
+            return FetchResult(http_status=403, content_bytes=b"https://challenge.example", content_hash="abc")
+
+        def fetch_page(self, url: str) -> FetchResult:
+            raise AssertionError("fetch_page should not be called")
+
+        def close(self) -> None:
+            return
+
+    monkeypatch.setattr(cli, "load_config", fake_load_config)
+    monkeypatch.setattr(cli, "SitemapFetcher", FakeFetcher)
+
+    args = argparse.Namespace(
+        config="unused.yaml",
+        baseline=str(baseline_path),
+        reports_dir=str(reports_dir),
+        log_level="INFO",
+    )
+    assert cli.cmd_run_once(args) == 0
+
+    persisted = load_baseline(str(baseline_path))
+    assert persisted["targets"]["main"]["http_status"] == 200
+    assert persisted["targets"]["main"]["sitemap_urls"] == ["https://example.com/old"]
+    assert list(reports_dir.glob("*.json")) == []
+
+
+def test_run_once_report_failure_does_not_advance_baseline(tmp_path: Path, monkeypatch) -> None:
+    baseline_path = tmp_path / "baseline.json"
+    reports_dir = tmp_path / "reports"
+    ensure_storage(str(baseline_path), str(reports_dir))
+
+    baseline = load_baseline(str(baseline_path))
+    set_current_urls(
+        baseline=baseline,
+        target_name="main",
+        target_url="https://example.com/sitemap.xml",
+        checked_at="2026-02-16T00:00:00+00:00",
+        sitemap_urls=["https://example.com/old"],
+        http_status=200,
+    )
+    save_baseline(str(baseline_path), baseline)
+
+    target = TargetConfig(name="main", url="https://example.com/sitemap.xml", webhook_url=None, enabled=True)
+
+    def fake_load_config(path: str):
+        return _DummyConfig([target])
+
+    class FakeFetcher:
+        def __init__(self, timeout_sec: int, user_agent: str):
+            pass
+
+        def fetch_content_hash(self, url: str) -> FetchResult:
+            xml = b"""<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://example.com/old</loc></url>
+<url><loc>https://example.com/new</loc></url>
+</urlset>"""
+            return FetchResult(http_status=200, content_bytes=xml, content_hash="abc")
+
+        def fetch_page(self, url: str) -> FetchResult:
+            return FetchResult(http_status=200, content_bytes=b"<html><h1>New</h1></html>")
+
+        def close(self) -> None:
+            return
+
+    def fail_append_daily_report(*args, **kwargs):
+        raise RuntimeError("disk full")
+
+    monkeypatch.setattr(cli, "load_config", fake_load_config)
+    monkeypatch.setattr(cli, "SitemapFetcher", FakeFetcher)
+    monkeypatch.setattr(cli, "append_daily_report", fail_append_daily_report)
+
+    args = argparse.Namespace(
+        config="unused.yaml",
+        baseline=str(baseline_path),
+        reports_dir=str(reports_dir),
+        log_level="INFO",
+    )
+    with pytest.raises(RuntimeError, match="disk full"):
+        cli.cmd_run_once(args)
+
+    persisted = load_baseline(str(baseline_path))
+    assert persisted["targets"]["main"]["sitemap_urls"] == ["https://example.com/old"]

@@ -1,0 +1,2636 @@
+[
+  {
+    "checked_at": "2026-05-14T07:00:00.596501+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 7,
+      "added_urls_total": 224,
+      "errors": 1,
+      "heading_ok_total": 216,
+      "heading_failed_total": 8
+    },
+    "keywords": {
+      "keywords": [
+        "Find it!",
+        "Aquapark.io",
+        "Zomboblox: Survive the City with Friends",
+        "Akanbe Dragon (MSX) Play Online",
+        "Barbarian (MSX) Play Online",
+        "Becky (MSX) Play Online",
+        "Bull and Mighty's Slim Chance (MSX) Play Online",
+        "Crest of the Dragon King Hades of Darkness (MSX) Play Online",
+        "Daisenryaku (MSX) Play Online",
+        "Daiva Story 4 (MSX) Play Online",
+        "Dam Busters (MSX) Play Online",
+        "Danger X4 (MSX) Play Online",
+        "Darwin 4078 (MSX) Play Online",
+        "David 2 (MSX) Play Online",
+        "Dawn Patrol (MSX) Play Online",
+        "Decathlon (MSX) Play Online",
+        "Deep Dungeon 2 (MSX) Play Online",
+        "Deep Dungeon Adventure (MSX) Play Online",
+        "Deep Dungeon (MSX) Play Online",
+        "Deep Forest (MSX) Play Online",
+        "Knither Special (MSX) Play Online",
+        "Demon Crystal (MSX) Play Online",
+        "Demonia (MSX) Play Online",
+        "Devil's Heaven (MSX) Play Online",
+        "Dig Dug (MSX) Play Online",
+        "Digital Devil Story: Megami Tensei (MSX) Play Online",
+        "Dip Dip (MSX) Play Online",
+        "DIRES: Giger Loop (MSX) Play Online",
+        "Doki Doki Penguin Land (MSX) Play Online",
+        "Door Door Mk2 (MSX) Play Online",
+        "Dorodon (MSX) Play Online",
+        "Dragon Attack (MSX) Play Online",
+        "Dragon Buster (MSX) Play Online",
+        "Dragon Quest 2 (MSX) Play Online",
+        "Dragon Quest (MSX) Play Online",
+        "Dragon Slayer 2 (MSX) Play Online",
+        "Dragon Slayer 3 (MSX) Play Online",
+        "Dragon Slayer 4 (MSX) Play Online",
+        "Dragon Slayer (MSX) Play Online",
+        "Drainer (MSX) Play Online",
+        "Driller Tanks (MSX) Play Online",
+        "Druid (MSX) Play Online",
+        "Dungeon Hunter (MSX) Play Online",
+        "Dungeon Master (MSX) Play Online",
+        "Dunk Shot (MSX) Play Online",
+        "Dustin (MSX) Play Online",
+        "Dynamite Bowl (MSX) Play Online",
+        "Eagle Fighter (MSX) Play Online",
+        "Eat Blue! (MSX) Play Online",
+        "Eggerland 2 (MSX) Play Online",
+        "Eggerland Mystery (MSX) Play Online",
+        "Eidolon (MSX) Play Online",
+        "Elevator Action (MSX) Play Online",
+        "Empereur (MSX) Play Online",
+        "Erika (MSX) Play Online",
+        "Erusurid: Elslid (MSX) Play Online",
+        "Evil Mansion: Goblin (MSX) Play Online",
+        "Exa Innova (MSX) Play Online",
+        "Exchanger (MSX) Play Online",
+        "Exciting Jockey (MSX) Play Online",
+        "Exerion 2 (MSX) Play Online",
+        "Exerion (MSX) Play Online",
+        "Exoide-Z Area 5 (MSX) Play Online",
+        "Exoide-Z (MSX) Play Online",
+        "F-1 Spirit (MSX) Play Online",
+        "F-15 Strike Eagle (MSX) Play Online",
+        "F1 Douchuuki (MSX) Play Online",
+        "F16 Fighting Falcon (MSX) Play Online",
+        "Fa Tetris (MSX) Play Online",
+        "Factory Infection (MSX) Play Online",
+        "Fairy (MSX) Play Online",
+        "Fairyland Story (MSX) Play Online",
+        "Famicle Parodic (MSX) Play Online",
+        "Family Billiards (MSX) Play Online",
+        "Family Boxing (MSX) Play Online",
+        "Family Stadium Pro Baseball (MSX) Play Online",
+        "Fantasy Zone 2 (MSX) Play Online",
+        "Fantasy Zone (MSX) Play Online",
+        "Feedback (MSX) Play Online",
+        "Fighter's Ragnarok (MSX) Play Online",
+        "Final Justice (MSX) Play Online",
+        "Final Mahjong (MSX) Play Online",
+        "Final Zone Wolf (MSX) Play Online",
+        "Fire Ball (MSX) Play Online",
+        "Fire Rescue (MSX) Play Online",
+        "Firebird (MSX) Play Online",
+        "Flappy Limited '85 (MSX) Play Online",
+        "Flappy Limited (MSX) Play Online",
+        "Flash Splash (MSX) Play Online",
+        "Flashpoint (MSX) Play Online",
+        "Fleet Commander 2 (MSX) Play Online",
+        "Flicky (MSX) Play Online",
+        "Flics (MSX) Play Online",
+        "Flight Deck 2 (MSX) Play Online",
+        "Flight Simulator (MSX) Play Online",
+        "Flipper Slipper (MSX) Play Online",
+        "Formation Z (MSX) Play Online",
+        "Frogger (MSX) Play Online",
+        "Front Line (MSX) Play Online",
+        "Fruit Panic (MSX) Play Online",
+        "Fruit Search (MSX) Play Online",
+        "Funky Mouse (MSX) Play Online",
+        "Futbol (MSX) Play Online",
+        "Galaga (MSX) Play Online",
+        "Galaxian (MSX) Play Online",
+        "Gall Force: Defense of Chaos (MSX) Play Online",
+        "Galmoon (MSX) Play Online",
+        "Gambler Jiko Chuushinha 2 (MSX) Play Online",
+        "Gambler Jiko Chuushinha (MSX) Play Online",
+        "Ganbare Goemon! (MSX) Play Online",
+        "Garyuoh (MSX) Play Online",
+        "Gekitotsu Pennant Race 2 (MSX) Play Online",
+        "Gekitotsu Pennant Race (MSX) Play Online",
+        "Genghis Khan 2 (MSX) Play Online",
+        "Genghis Khan (MSX) Play Online",
+        "Ghostbusters (MSX) Play Online",
+        "Girly Block (MSX) Play Online",
+        "Gitahei (MSX) Play Online",
+        "Glider (MSX) Play Online",
+        "Gniffel (MSX) Play Online",
+        "Godzilla (MSX) Play Online",
+        "Godzilla vs. 3 Giant Monsters (MSX) Play Online",
+        "Gokiburi Daisakusen: Bug Bomb (MSX) Play Online",
+        "Golf Game (MSX) Play Online",
+        "Golgo 13 (MSX) Play Online",
+        "Golvellius (MSX) Play Online",
+        "Gomoku Narabe (MSX) Play Online",
+        "Goofy Yaji Kita (MSX) Play Online",
+        "Goonies (MSX) Play Online",
+        "G.P. World (MSX) Play Online",
+        "Gradius 2 (MSX) Play Online",
+        "Gradius (MSX) Play Online",
+        "Green Beret (MSX) Play Online",
+        "Green Crystal (MSX) Play Online",
+        "Griel's Quest for the Sangraal (MSX) Play Online",
+        "Guardic (MSX) Play Online",
+        "Gulkave (MSX) Play Online",
+        "Gunfright (MSX) Play Online",
+        "Gunjin Shogi Mars (MSX) Play Online",
+        "Guru Logic (MSX) Play Online",
+        "Gyro Adventure (MSX) Play Online",
+        "Gyrodine (MSX) Play Online",
+        "Hacker (MSX) Play Online",
+        "Haja No Fuuin (MSX) Play Online",
+        "Hanafuda Koikoi (MSX) Play Online",
+        "Hanafuda (MSX) Play Online",
+        "Hang-On (MSX) Play Online",
+        "Happy Fret (MSX) Play Online",
+        "Harapeko Pakkun (MSX) Play Online",
+        "Hard Ball (MSX) Play Online",
+        "Harry Fox MSX Special (MSX) Play Online",
+        "Harry Fox: Yuki no Maou hen (MSX) Play Online",
+        "Hayabusa: Moonsweeper (MSX) Play Online",
+        "Head over Heels (MSX) Play Online",
+        "Heavy Boxing (MSX) Play Online",
+        "Heist (MSX) Play Online",
+        "Heli Tank (MSX) Play Online",
+        "Heroes of the Lance (MSX) Play Online",
+        "Higemaru: The Spirits Island (MSX) Play Online",
+        "High School! Kimengumi (MSX) Play Online",
+        "High School Story (MSX) Play Online",
+        "Highway Star (MSX) Play Online",
+        "Hisha (MSX) Play Online",
+        "Hole in One Professional (MSX) Play Online",
+        "Hole in One Special (MSX) Play Online",
+        "Hopper (MSX) Play Online",
+        "Hudson 3D Golf (MSX) Play Online",
+        "Hustle! Chumy (MSX) Play Online",
+        "Hydlide 2 (MSX) Play Online",
+        "Hydlide 3 (MSX) Play Online",
+        "Hydlide (MSX) Play Online",
+        "Hype (MSX) Play Online",
+        "Hyper Olympic 1 (MSX) Play Online",
+        "Hyper Olympic 2 (MSX) Play Online",
+        "Hyper Rally (MSX) Play Online",
+        "Hyper Sports 1 (MSX) Play Online",
+        "Hyper Sports 2 (MSX) Play Online",
+        "Hyper Sports 3 (MSX) Play Online",
+        "Ice World (MSX) Play Online",
+        "Ide Yousuke Meijin no Jissen Mahjong (MSX) Play Online",
+        "Ikari (MSX) Play Online",
+        "Iligks Episode I (MSX) Play Online",
+        "Iligks Episode IV (MSX) Play Online",
+        "Indian's Adventure (MSX) Play Online",
+        "Mah-Jong 2 (MSX) Play Online",
+        "Nemesis 3 (MSX) Play Online",
+        "Pretty Sheep (MSX) Play Online",
+        "Small Ninja 2 (MSX) Play Online",
+        "Small Ninja (MSX) Play Online",
+        "Storm of the Meiji Restoration (MSX) Play Online",
+        "Uncharted Waters (MSX) Play Online",
+        "Way of the Ninja (MSX) Play Online",
+        "Baldi's Basics",
+        "FNF",
+        "Granny 5",
+        "Kick Lucky Blocks Online",
+        "Run 2",
+        "Vex X3M 3",
+        "Brainrots Lava Survive Online",
+        "Jump Master",
+        "Farting Flight",
+        "Hot Games",
+        "New Games",
+        "Tap Brawl",
+        "Popular Games",
+        "Игра Скетч Бокс",
+        "Игра Драгоценности Королевы",
+        "Игра Стрелочки Головоломка",
+        "Игра Veck.io",
+        "Игра Идл Монстр Миксер",
+        "Игра Слияние Пирожных Котят",
+        "Игра Сортировка Гаек на Болтах",
+        "Игра Пасьянс: Категории Слов",
+        "Игра Найди Путь к Плитке (Пары)",
+        "Игра Математический Кроссворд: Улучшите Арифметику"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Find%20it%21,Aquapark.io,Zomboblox%3A%20Survive%20the%20City%20with%20Friends,Akanbe%20Dragon%20%28MSX%29%20Play%20Online,Barbarian%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Becky%20%28MSX%29%20Play%20Online,Bull%20and%20Mighty%27s%20Slim%20Chance%20%28MSX%29%20Play%20Online,Crest%20of%20the%20Dragon%20King%20Hades%20of%20Darkness%20%28MSX%29%20Play%20Online,Daisenryaku%20%28MSX%29%20Play%20Online,Daiva%20Story%204%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dam%20Busters%20%28MSX%29%20Play%20Online,Danger%20X4%20%28MSX%29%20Play%20Online,Darwin%204078%20%28MSX%29%20Play%20Online,David%202%20%28MSX%29%20Play%20Online,Dawn%20Patrol%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Decathlon%20%28MSX%29%20Play%20Online,Deep%20Dungeon%202%20%28MSX%29%20Play%20Online,Deep%20Dungeon%20Adventure%20%28MSX%29%20Play%20Online,Deep%20Dungeon%20%28MSX%29%20Play%20Online,Deep%20Forest%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Knither%20Special%20%28MSX%29%20Play%20Online,Demon%20Crystal%20%28MSX%29%20Play%20Online,Demonia%20%28MSX%29%20Play%20Online,Devil%27s%20Heaven%20%28MSX%29%20Play%20Online,Dig%20Dug%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Digital%20Devil%20Story%3A%20Megami%20Tensei%20%28MSX%29%20Play%20Online,Dip%20Dip%20%28MSX%29%20Play%20Online,DIRES%3A%20Giger%20Loop%20%28MSX%29%20Play%20Online,Doki%20Doki%20Penguin%20Land%20%28MSX%29%20Play%20Online,Door%20Door%20Mk2%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dorodon%20%28MSX%29%20Play%20Online,Dragon%20Attack%20%28MSX%29%20Play%20Online,Dragon%20Buster%20%28MSX%29%20Play%20Online,Dragon%20Quest%202%20%28MSX%29%20Play%20Online,Dragon%20Quest%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dragon%20Slayer%202%20%28MSX%29%20Play%20Online,Dragon%20Slayer%203%20%28MSX%29%20Play%20Online,Dragon%20Slayer%204%20%28MSX%29%20Play%20Online,Dragon%20Slayer%20%28MSX%29%20Play%20Online,Drainer%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Driller%20Tanks%20%28MSX%29%20Play%20Online,Druid%20%28MSX%29%20Play%20Online,Dungeon%20Hunter%20%28MSX%29%20Play%20Online,Dungeon%20Master%20%28MSX%29%20Play%20Online,Dunk%20Shot%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Dustin%20%28MSX%29%20Play%20Online,Dynamite%20Bowl%20%28MSX%29%20Play%20Online,Eagle%20Fighter%20%28MSX%29%20Play%20Online,Eat%20Blue%21%20%28MSX%29%20Play%20Online,Eggerland%202%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Eggerland%20Mystery%20%28MSX%29%20Play%20Online,Eidolon%20%28MSX%29%20Play%20Online,Elevator%20Action%20%28MSX%29%20Play%20Online,Empereur%20%28MSX%29%20Play%20Online,Erika%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Erusurid%3A%20Elslid%20%28MSX%29%20Play%20Online,Evil%20Mansion%3A%20Goblin%20%28MSX%29%20Play%20Online,Exa%20Innova%20%28MSX%29%20Play%20Online,Exchanger%20%28MSX%29%20Play%20Online,Exciting%20Jockey%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Exerion%202%20%28MSX%29%20Play%20Online,Exerion%20%28MSX%29%20Play%20Online,Exoide-Z%20Area%205%20%28MSX%29%20Play%20Online,Exoide-Z%20%28MSX%29%20Play%20Online,F-1%20Spirit%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=F-15%20Strike%20Eagle%20%28MSX%29%20Play%20Online,F1%20Douchuuki%20%28MSX%29%20Play%20Online,F16%20Fighting%20Falcon%20%28MSX%29%20Play%20Online,Fa%20Tetris%20%28MSX%29%20Play%20Online,Factory%20Infection%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Fairy%20%28MSX%29%20Play%20Online,Fairyland%20Story%20%28MSX%29%20Play%20Online,Famicle%20Parodic%20%28MSX%29%20Play%20Online,Family%20Billiards%20%28MSX%29%20Play%20Online,Family%20Boxing%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Family%20Stadium%20Pro%20Baseball%20%28MSX%29%20Play%20Online,Fantasy%20Zone%202%20%28MSX%29%20Play%20Online,Fantasy%20Zone%20%28MSX%29%20Play%20Online,Feedback%20%28MSX%29%20Play%20Online,Fighter%27s%20Ragnarok%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Final%20Justice%20%28MSX%29%20Play%20Online,Final%20Mahjong%20%28MSX%29%20Play%20Online,Final%20Zone%20Wolf%20%28MSX%29%20Play%20Online,Fire%20Ball%20%28MSX%29%20Play%20Online,Fire%20Rescue%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Firebird%20%28MSX%29%20Play%20Online,Flappy%20Limited%20%2785%20%28MSX%29%20Play%20Online,Flappy%20Limited%20%28MSX%29%20Play%20Online,Flash%20Splash%20%28MSX%29%20Play%20Online,Flashpoint%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Fleet%20Commander%202%20%28MSX%29%20Play%20Online,Flicky%20%28MSX%29%20Play%20Online,Flics%20%28MSX%29%20Play%20Online,Flight%20Deck%202%20%28MSX%29%20Play%20Online,Flight%20Simulator%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Flipper%20Slipper%20%28MSX%29%20Play%20Online,Formation%20Z%20%28MSX%29%20Play%20Online,Frogger%20%28MSX%29%20Play%20Online,Front%20Line%20%28MSX%29%20Play%20Online,Fruit%20Panic%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Fruit%20Search%20%28MSX%29%20Play%20Online,Funky%20Mouse%20%28MSX%29%20Play%20Online,Futbol%20%28MSX%29%20Play%20Online,Galaga%20%28MSX%29%20Play%20Online,Galaxian%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Gall%20Force%3A%20Defense%20of%20Chaos%20%28MSX%29%20Play%20Online,Galmoon%20%28MSX%29%20Play%20Online,Gambler%20Jiko%20Chuushinha%202%20%28MSX%29%20Play%20Online,Gambler%20Jiko%20Chuushinha%20%28MSX%29%20Play%20Online,Ganbare%20Goemon%21%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Garyuoh%20%28MSX%29%20Play%20Online,Gekitotsu%20Pennant%20Race%202%20%28MSX%29%20Play%20Online,Gekitotsu%20Pennant%20Race%20%28MSX%29%20Play%20Online,Genghis%20Khan%202%20%28MSX%29%20Play%20Online,Genghis%20Khan%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Ghostbusters%20%28MSX%29%20Play%20Online,Girly%20Block%20%28MSX%29%20Play%20Online,Gitahei%20%28MSX%29%20Play%20Online,Glider%20%28MSX%29%20Play%20Online,Gniffel%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Godzilla%20%28MSX%29%20Play%20Online,Godzilla%20vs.%203%20Giant%20Monsters%20%28MSX%29%20Play%20Online,Gokiburi%20Daisakusen%3A%20Bug%20Bomb%20%28MSX%29%20Play%20Online,Golf%20Game%20%28MSX%29%20Play%20Online,Golgo%2013%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Golvellius%20%28MSX%29%20Play%20Online,Gomoku%20Narabe%20%28MSX%29%20Play%20Online,Goofy%20Yaji%20Kita%20%28MSX%29%20Play%20Online,Goonies%20%28MSX%29%20Play%20Online,G.P.%20World%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Gradius%202%20%28MSX%29%20Play%20Online,Gradius%20%28MSX%29%20Play%20Online,Green%20Beret%20%28MSX%29%20Play%20Online,Green%20Crystal%20%28MSX%29%20Play%20Online,Griel%27s%20Quest%20for%20the%20Sangraal%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Guardic%20%28MSX%29%20Play%20Online,Gulkave%20%28MSX%29%20Play%20Online,Gunfright%20%28MSX%29%20Play%20Online,Gunjin%20Shogi%20Mars%20%28MSX%29%20Play%20Online,Guru%20Logic%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Gyro%20Adventure%20%28MSX%29%20Play%20Online,Gyrodine%20%28MSX%29%20Play%20Online,Hacker%20%28MSX%29%20Play%20Online,Haja%20No%20Fuuin%20%28MSX%29%20Play%20Online,Hanafuda%20Koikoi%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hanafuda%20%28MSX%29%20Play%20Online,Hang-On%20%28MSX%29%20Play%20Online,Happy%20Fret%20%28MSX%29%20Play%20Online,Harapeko%20Pakkun%20%28MSX%29%20Play%20Online,Hard%20Ball%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Harry%20Fox%20MSX%20Special%20%28MSX%29%20Play%20Online,Harry%20Fox%3A%20Yuki%20no%20Maou%20hen%20%28MSX%29%20Play%20Online,Hayabusa%3A%20Moonsweeper%20%28MSX%29%20Play%20Online,Head%20over%20Heels%20%28MSX%29%20Play%20Online,Heavy%20Boxing%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Heist%20%28MSX%29%20Play%20Online,Heli%20Tank%20%28MSX%29%20Play%20Online,Heroes%20of%20the%20Lance%20%28MSX%29%20Play%20Online,Higemaru%3A%20The%20Spirits%20Island%20%28MSX%29%20Play%20Online,High%20School%21%20Kimengumi%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=High%20School%20Story%20%28MSX%29%20Play%20Online,Highway%20Star%20%28MSX%29%20Play%20Online,Hisha%20%28MSX%29%20Play%20Online,Hole%20in%20One%20Professional%20%28MSX%29%20Play%20Online,Hole%20in%20One%20Special%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hopper%20%28MSX%29%20Play%20Online,Hudson%203D%20Golf%20%28MSX%29%20Play%20Online,Hustle%21%20Chumy%20%28MSX%29%20Play%20Online,Hydlide%202%20%28MSX%29%20Play%20Online,Hydlide%203%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hydlide%20%28MSX%29%20Play%20Online,Hype%20%28MSX%29%20Play%20Online,Hyper%20Olympic%201%20%28MSX%29%20Play%20Online,Hyper%20Olympic%202%20%28MSX%29%20Play%20Online,Hyper%20Rally%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hyper%20Sports%201%20%28MSX%29%20Play%20Online,Hyper%20Sports%202%20%28MSX%29%20Play%20Online,Hyper%20Sports%203%20%28MSX%29%20Play%20Online,Ice%20World%20%28MSX%29%20Play%20Online,Ide%20Yousuke%20Meijin%20no%20Jissen%20Mahjong%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Ikari%20%28MSX%29%20Play%20Online,Iligks%20Episode%20I%20%28MSX%29%20Play%20Online,Iligks%20Episode%20IV%20%28MSX%29%20Play%20Online,Indian%27s%20Adventure%20%28MSX%29%20Play%20Online,Mah-Jong%202%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Nemesis%203%20%28MSX%29%20Play%20Online,Pretty%20Sheep%20%28MSX%29%20Play%20Online,Small%20Ninja%202%20%28MSX%29%20Play%20Online,Small%20Ninja%20%28MSX%29%20Play%20Online,Storm%20of%20the%20Meiji%20Restoration%20%28MSX%29%20Play%20Online",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Uncharted%20Waters%20%28MSX%29%20Play%20Online,Way%20of%20the%20Ninja%20%28MSX%29%20Play%20Online,Baldi%27s%20Basics,FNF,Granny%205",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Kick%20Lucky%20Blocks%20Online,Run%202,Vex%20X3M%203,Brainrots%20Lava%20Survive%20Online,Jump%20Master",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Farting%20Flight,Hot%20Games,New%20Games,Tap%20Brawl,Popular%20Games",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BA%D0%B5%D1%82%D1%87%20%D0%91%D0%BE%D0%BA%D1%81,%D0%98%D0%B3%D1%80%D0%B0%20%D0%94%D1%80%D0%B0%D0%B3%D0%BE%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%8B,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B8%20%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0,%D0%98%D0%B3%D1%80%D0%B0%20Veck.io,%D0%98%D0%B3%D1%80%D0%B0%20%D0%98%D0%B4%D0%BB%20%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%20%D0%9C%D0%B8%D0%BA%D1%81%D0%B5%D1%80",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%B8%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D1%85%20%D0%9A%D0%BE%D1%82%D1%8F%D1%82,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%93%D0%B0%D0%B5%D0%BA%20%D0%BD%D0%B0%20%D0%91%D0%BE%D0%BB%D1%82%D0%B0%D1%85,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D1%81%3A%20%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8%20%D0%A1%D0%BB%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9D%D0%B0%D0%B9%D0%B4%D0%B8%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%BA%20%D0%9F%D0%BB%D0%B8%D1%82%D0%BA%D0%B5%20%28%D0%9F%D0%B0%D1%80%D1%8B%29,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4%3A%20%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%82%D0%B5%20%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D0%BA%D1%83"
+    ],
+    "targets": [
+      {
+        "name": "poki-games",
+        "url": "https://poki.com/en/sitemaps/games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1486,
+        "added_count": 1,
+        "added_urls": [
+          "https://poki.com/en/g/find-it"
+        ],
+        "heading_results": [
+          {
+            "url": "https://poki.com/en/g/find-it",
+            "http_status": 200,
+            "heading": "Find it!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Find it!"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1874,
+        "added_count": 2,
+        "added_urls": [
+          "https://1games.io/aquapark-io",
+          "https://1games.io/zomboblox-survive-the-city-with-friends"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/aquapark-io",
+            "http_status": 200,
+            "heading": "Aquapark.io",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/zomboblox-survive-the-city-with-friends",
+            "http_status": 200,
+            "heading": "Zomboblox: Survive the City with Friends",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Aquapark.io",
+            "Zomboblox: Survive the City with Friends"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "gamonl",
+        "url": "https://gam.onl/sitemap.txt",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 17540,
+        "added_count": 190,
+        "added_urls": [
+          "https://gam.onl/msx/akanbe-dragon.html",
+          "https://gam.onl/msx/barbarian.html",
+          "https://gam.onl/msx/becky.html",
+          "https://gam.onl/msx/bull-and-mighty-slim-chance.html",
+          "https://gam.onl/msx/crest-of-the-dragon-king-hades-of-darkness.html",
+          "https://gam.onl/msx/daisenryaku.html",
+          "https://gam.onl/msx/daiva-story-4-asura-bloodfeud.html",
+          "https://gam.onl/msx/dam-busters.html",
+          "https://gam.onl/msx/danger-x4.html",
+          "https://gam.onl/msx/darwin-4078.html",
+          "https://gam.onl/msx/david-2.html",
+          "https://gam.onl/msx/dawn-patrol.html",
+          "https://gam.onl/msx/decathlon.html",
+          "https://gam.onl/msx/deep-dungeon-2.html",
+          "https://gam.onl/msx/deep-dungeon-adventure.html",
+          "https://gam.onl/msx/deep-dungeon.html",
+          "https://gam.onl/msx/deep-forest.html",
+          "https://gam.onl/msx/demon-crystal-saga-2-knither-special.html",
+          "https://gam.onl/msx/demon-crystal.html",
+          "https://gam.onl/msx/demonia.html",
+          "https://gam.onl/msx/devils-heaven.html",
+          "https://gam.onl/msx/dig-dug.html",
+          "https://gam.onl/msx/digital-devil-story-megami-tensei.html",
+          "https://gam.onl/msx/dip-dip.html",
+          "https://gam.onl/msx/dires-giger-loop.html",
+          "https://gam.onl/msx/doki-doki-penguin-land.html",
+          "https://gam.onl/msx/door-door-mk2.html",
+          "https://gam.onl/msx/dorodon.html",
+          "https://gam.onl/msx/dragon-attack.html",
+          "https://gam.onl/msx/dragon-buster.html",
+          "https://gam.onl/msx/dragon-quest-2.html",
+          "https://gam.onl/msx/dragon-quest.html",
+          "https://gam.onl/msx/dragon-slayer-2.html",
+          "https://gam.onl/msx/dragon-slayer-3.html",
+          "https://gam.onl/msx/dragon-slayer-4.html",
+          "https://gam.onl/msx/dragon-slayer.html",
+          "https://gam.onl/msx/drainer.html",
+          "https://gam.onl/msx/driller-tanks.html",
+          "https://gam.onl/msx/druid.html",
+          "https://gam.onl/msx/dungeon-hunter.html",
+          "https://gam.onl/msx/dungeon-master.html",
+          "https://gam.onl/msx/dunk-shot.html",
+          "https://gam.onl/msx/dustin.html",
+          "https://gam.onl/msx/dynamite-bowl-msx.html",
+          "https://gam.onl/msx/dynamite-bowl-msx2.html",
+          "https://gam.onl/msx/eagle-fighter.html",
+          "https://gam.onl/msx/eat-blue-2004.html",
+          "https://gam.onl/msx/eggerland-2.html",
+          "https://gam.onl/msx/eggerland-mystery.html",
+          "https://gam.onl/msx/eidolon.html",
+          "https://gam.onl/msx/elevator-action.html",
+          "https://gam.onl/msx/empereur.html",
+          "https://gam.onl/msx/erika.html",
+          "https://gam.onl/msx/erusurid-elslid.html",
+          "https://gam.onl/msx/evil-mansion-goblin.html",
+          "https://gam.onl/msx/exa-innova.html",
+          "https://gam.onl/msx/exchanger.html",
+          "https://gam.onl/msx/exciting-jockey.html",
+          "https://gam.onl/msx/exerion-2-zorni.html",
+          "https://gam.onl/msx/exerion.html",
+          "https://gam.onl/msx/exoide-z-area-5.html",
+          "https://gam.onl/msx/exoide-z.html",
+          "https://gam.onl/msx/f-1-spirit-the-way-to-formula-1.html",
+          "https://gam.onl/msx/f-15-strike-eagle.html",
+          "https://gam.onl/msx/f1-douchuuki.html",
+          "https://gam.onl/msx/f16-fighting-falcon.html",
+          "https://gam.onl/msx/fa-tetris.html",
+          "https://gam.onl/msx/factory-infection.html",
+          "https://gam.onl/msx/fairy.html",
+          "https://gam.onl/msx/fairyland-story.html",
+          "https://gam.onl/msx/famicle-parodic.html",
+          "https://gam.onl/msx/family-billiards.html",
+          "https://gam.onl/msx/family-boxing-msx-title-match.html",
+          "https://gam.onl/msx/family-stadium-pro-baseball-homerun-contest.html",
+          "https://gam.onl/msx/fantasy-zone-2-the-tears-of-opa-opa.html",
+          "https://gam.onl/msx/fantasy-zone.html",
+          "https://gam.onl/msx/feedback.html",
+          "https://gam.onl/msx/fighters-ragnarok.html",
+          "https://gam.onl/msx/final-justice.html",
+          "https://gam.onl/msx/final-mahjong.html",
+          "https://gam.onl/msx/final-zone-wolf.html",
+          "https://gam.onl/msx/fire-ball.html",
+          "https://gam.onl/msx/fire-rescue.html",
+          "https://gam.onl/msx/firebird-the-phoenix-saga.html",
+          "https://gam.onl/msx/flappy-limited-85.html",
+          "https://gam.onl/msx/flappy-limited.html",
+          "https://gam.onl/msx/flash-splash.html",
+          "https://gam.onl/msx/flashpoint.html",
+          "https://gam.onl/msx/fleet-commander-2.html",
+          "https://gam.onl/msx/flicky.html",
+          "https://gam.onl/msx/flics.html",
+          "https://gam.onl/msx/flight-deck-2.html",
+          "https://gam.onl/msx/flight-simulator.html",
+          "https://gam.onl/msx/flipper-slipper.html",
+          "https://gam.onl/msx/formation-z.html",
+          "https://gam.onl/msx/frogger.html",
+          "https://gam.onl/msx/front-line.html",
+          "https://gam.onl/msx/fruit-panic.html",
+          "https://gam.onl/msx/fruit-search.html",
+          "https://gam.onl/msx/funky-mouse.html",
+          "https://gam.onl/msx/futbol.html",
+          "https://gam.onl/msx/galaga.html",
+          "https://gam.onl/msx/galaxian.html",
+          "https://gam.onl/msx/gall-force-defense-of-chaos.html",
+          "https://gam.onl/msx/galmoon.html",
+          "https://gam.onl/msx/gambler-jiko-chuushinha-2.html",
+          "https://gam.onl/msx/gambler-jiko-chuushinha.html",
+          "https://gam.onl/msx/ganbare-goemon-karakuri-douchuu.html",
+          "https://gam.onl/msx/garyuoh.html",
+          "https://gam.onl/msx/gekitotsu-pennant-race-2.html",
+          "https://gam.onl/msx/gekitotsu-pennant-race-pro-yakyuu.html",
+          "https://gam.onl/msx/genghis-khan-2.html",
+          "https://gam.onl/msx/genghis-khan.html",
+          "https://gam.onl/msx/ghostbusters.html",
+          "https://gam.onl/msx/girly-block.html",
+          "https://gam.onl/msx/gitahei.html",
+          "https://gam.onl/msx/glider.html",
+          "https://gam.onl/msx/gniffel.html",
+          "https://gam.onl/msx/godzilla-kun.html",
+          "https://gam.onl/msx/godzilla-vs-3-giant-monsters.html",
+          "https://gam.onl/msx/gokiburi-daisakusen-bug-bomb.html",
+          "https://gam.onl/msx/golf-game.html",
+          "https://gam.onl/msx/golgo-13-okami-no-su.html",
+          "https://gam.onl/msx/golvellius.html",
+          "https://gam.onl/msx/gomoku-narabe.html",
+          "https://gam.onl/msx/goofy-yaji-kita-secrets-on-the-way.html",
+          "https://gam.onl/msx/goonies.html",
+          "https://gam.onl/msx/gp-world.html",
+          "https://gam.onl/msx/gradius-2.html",
+          "https://gam.onl/msx/gradius.html",
+          "https://gam.onl/msx/green-beret.html",
+          "https://gam.onl/msx/green-crystal.html",
+          "https://gam.onl/msx/griel-quest-for-the-sangraal.html",
+          "https://gam.onl/msx/guardic.html",
+          "https://gam.onl/msx/gulkave.html",
+          "https://gam.onl/msx/gunfright.html",
+          "https://gam.onl/msx/gunjin-shogi-mars.html",
+          "https://gam.onl/msx/guru-logic.html",
+          "https://gam.onl/msx/gyro-adventure.html",
+          "https://gam.onl/msx/gyrodine.html",
+          "https://gam.onl/msx/hacker.html",
+          "https://gam.onl/msx/haja-no-fuuin.html",
+          "https://gam.onl/msx/hanafuda-koikoi.html",
+          "https://gam.onl/msx/hanafuda.html",
+          "https://gam.onl/msx/hang-on.html",
+          "https://gam.onl/msx/happy-fret.html",
+          "https://gam.onl/msx/harapeko-pakkun.html",
+          "https://gam.onl/msx/hard-ball.html",
+          "https://gam.onl/msx/harry-fox-msx-special.html",
+          "https://gam.onl/msx/harry-fox-yuki-no-maou-hen.html",
+          "https://gam.onl/msx/hayabusa-moonsweeper.html",
+          "https://gam.onl/msx/head-over-heels.html",
+          "https://gam.onl/msx/heavy-boxing.html",
+          "https://gam.onl/msx/heist.html",
+          "https://gam.onl/msx/heli-tank.html",
+          "https://gam.onl/msx/heroes-of-the-lance.html",
+          "https://gam.onl/msx/higemaru-the-spirits-island.html",
+          "https://gam.onl/msx/high-school-kimengumi.html",
+          "https://gam.onl/msx/high-school-story.html",
+          "https://gam.onl/msx/highway-star.html",
+          "https://gam.onl/msx/hisha.html",
+          "https://gam.onl/msx/hole-in-one-professional.html",
+          "https://gam.onl/msx/hole-in-one-special.html",
+          "https://gam.onl/msx/hopper.html",
+          "https://gam.onl/msx/hudson-3d-golf.html",
+          "https://gam.onl/msx/hustle-chumy.html",
+          "https://gam.onl/msx/hydlide-2-shine-of-darkness.html",
+          "https://gam.onl/msx/hydlide-3-the-space-memories.html",
+          "https://gam.onl/msx/hydlide.html",
+          "https://gam.onl/msx/hype.html",
+          "https://gam.onl/msx/hyper-olympic-1.html",
+          "https://gam.onl/msx/hyper-olympic-2.html",
+          "https://gam.onl/msx/hyper-rally.html",
+          "https://gam.onl/msx/hyper-sports-1.html",
+          "https://gam.onl/msx/hyper-sports-2.html",
+          "https://gam.onl/msx/hyper-sports-3.html",
+          "https://gam.onl/msx/ice-world.html",
+          "https://gam.onl/msx/ide-yousuke-meijin-no-jissen-mahjong.html",
+          "https://gam.onl/msx/ikari.html",
+          "https://gam.onl/msx/iligks-episode-1-theseus.html",
+          "https://gam.onl/msx/iligks-episode-4.html",
+          "https://gam.onl/msx/indians-adventure.html",
+          "https://gam.onl/msx/mah-jong-2.html",
+          "https://gam.onl/msx/nemesis-3-the-eve-of-destruction.html",
+          "https://gam.onl/msx/pretty-sheep.html",
+          "https://gam.onl/msx/small-ninja-2.html",
+          "https://gam.onl/msx/small-ninja.html",
+          "https://gam.onl/msx/storm-of-the-meiji-restoration.html",
+          "https://gam.onl/msx/uncharted-waters.html",
+          "https://gam.onl/msx/way-of-the-ninja.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://gam.onl/msx/akanbe-dragon.html",
+            "http_status": 200,
+            "heading": "Akanbe Dragon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/barbarian.html",
+            "http_status": 200,
+            "heading": "Barbarian (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/becky.html",
+            "http_status": 200,
+            "heading": "Becky (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/bull-and-mighty-slim-chance.html",
+            "http_status": 200,
+            "heading": "Bull and Mighty's Slim Chance (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/crest-of-the-dragon-king-hades-of-darkness.html",
+            "http_status": 200,
+            "heading": "Crest of the Dragon King Hades of Darkness (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/daisenryaku.html",
+            "http_status": 200,
+            "heading": "Daisenryaku (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/daiva-story-4-asura-bloodfeud.html",
+            "http_status": 200,
+            "heading": "Daiva Story 4 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dam-busters.html",
+            "http_status": 200,
+            "heading": "Dam Busters (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/danger-x4.html",
+            "http_status": 200,
+            "heading": "Danger X4 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/darwin-4078.html",
+            "http_status": 200,
+            "heading": "Darwin 4078 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/david-2.html",
+            "http_status": 200,
+            "heading": "David 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dawn-patrol.html",
+            "http_status": 200,
+            "heading": "Dawn Patrol (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/decathlon.html",
+            "http_status": 200,
+            "heading": "Decathlon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/deep-dungeon-2.html",
+            "http_status": 200,
+            "heading": "Deep Dungeon 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/deep-dungeon-adventure.html",
+            "http_status": 200,
+            "heading": "Deep Dungeon Adventure (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/deep-dungeon.html",
+            "http_status": 200,
+            "heading": "Deep Dungeon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/deep-forest.html",
+            "http_status": 200,
+            "heading": "Deep Forest (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/demon-crystal-saga-2-knither-special.html",
+            "http_status": 200,
+            "heading": "Knither Special (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/demon-crystal.html",
+            "http_status": 200,
+            "heading": "Demon Crystal (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/demonia.html",
+            "http_status": 200,
+            "heading": "Demonia (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/devils-heaven.html",
+            "http_status": 200,
+            "heading": "Devil's Heaven (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dig-dug.html",
+            "http_status": 200,
+            "heading": "Dig Dug (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/digital-devil-story-megami-tensei.html",
+            "http_status": 200,
+            "heading": "Digital Devil Story: Megami Tensei (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dip-dip.html",
+            "http_status": 200,
+            "heading": "Dip Dip (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dires-giger-loop.html",
+            "http_status": 200,
+            "heading": "DIRES: Giger Loop (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/doki-doki-penguin-land.html",
+            "http_status": 200,
+            "heading": "Doki Doki Penguin Land (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/door-door-mk2.html",
+            "http_status": 200,
+            "heading": "Door Door Mk2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dorodon.html",
+            "http_status": 200,
+            "heading": "Dorodon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-attack.html",
+            "http_status": 200,
+            "heading": "Dragon Attack (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-buster.html",
+            "http_status": 200,
+            "heading": "Dragon Buster (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-quest-2.html",
+            "http_status": 200,
+            "heading": "Dragon Quest 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-quest.html",
+            "http_status": 200,
+            "heading": "Dragon Quest (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-slayer-2.html",
+            "http_status": 200,
+            "heading": "Dragon Slayer 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-slayer-3.html",
+            "http_status": 200,
+            "heading": "Dragon Slayer 3 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-slayer-4.html",
+            "http_status": 200,
+            "heading": "Dragon Slayer 4 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dragon-slayer.html",
+            "http_status": 200,
+            "heading": "Dragon Slayer (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/drainer.html",
+            "http_status": 200,
+            "heading": "Drainer (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/driller-tanks.html",
+            "http_status": 200,
+            "heading": "Driller Tanks (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/druid.html",
+            "http_status": 200,
+            "heading": "Druid (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dungeon-hunter.html",
+            "http_status": 200,
+            "heading": "Dungeon Hunter (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dungeon-master.html",
+            "http_status": 200,
+            "heading": "Dungeon Master (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dunk-shot.html",
+            "http_status": 200,
+            "heading": "Dunk Shot (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dustin.html",
+            "http_status": 200,
+            "heading": "Dustin (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dynamite-bowl-msx.html",
+            "http_status": 200,
+            "heading": "Dynamite Bowl (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/dynamite-bowl-msx2.html",
+            "http_status": 200,
+            "heading": "Dynamite Bowl (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/eagle-fighter.html",
+            "http_status": 200,
+            "heading": "Eagle Fighter (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/eat-blue-2004.html",
+            "http_status": 200,
+            "heading": "Eat Blue! (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/eggerland-2.html",
+            "http_status": 200,
+            "heading": "Eggerland 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/eggerland-mystery.html",
+            "http_status": 200,
+            "heading": "Eggerland Mystery (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/eidolon.html",
+            "http_status": 200,
+            "heading": "Eidolon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/elevator-action.html",
+            "http_status": 200,
+            "heading": "Elevator Action (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/empereur.html",
+            "http_status": 200,
+            "heading": "Empereur (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/erika.html",
+            "http_status": 200,
+            "heading": "Erika (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/erusurid-elslid.html",
+            "http_status": 200,
+            "heading": "Erusurid: Elslid (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/evil-mansion-goblin.html",
+            "http_status": 200,
+            "heading": "Evil Mansion: Goblin (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exa-innova.html",
+            "http_status": 200,
+            "heading": "Exa Innova (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exchanger.html",
+            "http_status": 200,
+            "heading": "Exchanger (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exciting-jockey.html",
+            "http_status": 200,
+            "heading": "Exciting Jockey (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exerion-2-zorni.html",
+            "http_status": 200,
+            "heading": "Exerion 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exerion.html",
+            "http_status": 200,
+            "heading": "Exerion (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exoide-z-area-5.html",
+            "http_status": 200,
+            "heading": "Exoide-Z Area 5 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/exoide-z.html",
+            "http_status": 200,
+            "heading": "Exoide-Z (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/f-1-spirit-the-way-to-formula-1.html",
+            "http_status": 200,
+            "heading": "F-1 Spirit (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/f-15-strike-eagle.html",
+            "http_status": 200,
+            "heading": "F-15 Strike Eagle (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/f1-douchuuki.html",
+            "http_status": 200,
+            "heading": "F1 Douchuuki (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/f16-fighting-falcon.html",
+            "http_status": 200,
+            "heading": "F16 Fighting Falcon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fa-tetris.html",
+            "http_status": 200,
+            "heading": "Fa Tetris (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/factory-infection.html",
+            "http_status": 200,
+            "heading": "Factory Infection (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fairy.html",
+            "http_status": 200,
+            "heading": "Fairy (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fairyland-story.html",
+            "http_status": 200,
+            "heading": "Fairyland Story (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/famicle-parodic.html",
+            "http_status": 200,
+            "heading": "Famicle Parodic (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/family-billiards.html",
+            "http_status": 200,
+            "heading": "Family Billiards (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/family-boxing-msx-title-match.html",
+            "http_status": 200,
+            "heading": "Family Boxing (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/family-stadium-pro-baseball-homerun-contest.html",
+            "http_status": 200,
+            "heading": "Family Stadium Pro Baseball (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fantasy-zone-2-the-tears-of-opa-opa.html",
+            "http_status": 200,
+            "heading": "Fantasy Zone 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fantasy-zone.html",
+            "http_status": 200,
+            "heading": "Fantasy Zone (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/feedback.html",
+            "http_status": 200,
+            "heading": "Feedback (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fighters-ragnarok.html",
+            "http_status": 200,
+            "heading": "Fighter's Ragnarok (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/final-justice.html",
+            "http_status": 200,
+            "heading": "Final Justice (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/final-mahjong.html",
+            "http_status": 200,
+            "heading": "Final Mahjong (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/final-zone-wolf.html",
+            "http_status": 200,
+            "heading": "Final Zone Wolf (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fire-ball.html",
+            "http_status": 200,
+            "heading": "Fire Ball (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fire-rescue.html",
+            "http_status": 200,
+            "heading": "Fire Rescue (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/firebird-the-phoenix-saga.html",
+            "http_status": 200,
+            "heading": "Firebird (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flappy-limited-85.html",
+            "http_status": 200,
+            "heading": "Flappy Limited '85 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flappy-limited.html",
+            "http_status": 200,
+            "heading": "Flappy Limited (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flash-splash.html",
+            "http_status": 200,
+            "heading": "Flash Splash (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flashpoint.html",
+            "http_status": 200,
+            "heading": "Flashpoint (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fleet-commander-2.html",
+            "http_status": 200,
+            "heading": "Fleet Commander 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flicky.html",
+            "http_status": 200,
+            "heading": "Flicky (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flics.html",
+            "http_status": 200,
+            "heading": "Flics (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flight-deck-2.html",
+            "http_status": 200,
+            "heading": "Flight Deck 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flight-simulator.html",
+            "http_status": 200,
+            "heading": "Flight Simulator (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/flipper-slipper.html",
+            "http_status": 200,
+            "heading": "Flipper Slipper (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/formation-z.html",
+            "http_status": 200,
+            "heading": "Formation Z (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/frogger.html",
+            "http_status": 200,
+            "heading": "Frogger (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/front-line.html",
+            "http_status": 200,
+            "heading": "Front Line (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fruit-panic.html",
+            "http_status": 200,
+            "heading": "Fruit Panic (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/fruit-search.html",
+            "http_status": 200,
+            "heading": "Fruit Search (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/funky-mouse.html",
+            "http_status": 200,
+            "heading": "Funky Mouse (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/futbol.html",
+            "http_status": 200,
+            "heading": "Futbol (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/galaga.html",
+            "http_status": 200,
+            "heading": "Galaga (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/galaxian.html",
+            "http_status": 200,
+            "heading": "Galaxian (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gall-force-defense-of-chaos.html",
+            "http_status": 200,
+            "heading": "Gall Force: Defense of Chaos (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/galmoon.html",
+            "http_status": 200,
+            "heading": "Galmoon (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gambler-jiko-chuushinha-2.html",
+            "http_status": 200,
+            "heading": "Gambler Jiko Chuushinha 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gambler-jiko-chuushinha.html",
+            "http_status": 200,
+            "heading": "Gambler Jiko Chuushinha (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/ganbare-goemon-karakuri-douchuu.html",
+            "http_status": 200,
+            "heading": "Ganbare Goemon! (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/garyuoh.html",
+            "http_status": 200,
+            "heading": "Garyuoh (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gekitotsu-pennant-race-2.html",
+            "http_status": 200,
+            "heading": "Gekitotsu Pennant Race 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gekitotsu-pennant-race-pro-yakyuu.html",
+            "http_status": 200,
+            "heading": "Gekitotsu Pennant Race (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/genghis-khan-2.html",
+            "http_status": 200,
+            "heading": "Genghis Khan 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/genghis-khan.html",
+            "http_status": 200,
+            "heading": "Genghis Khan (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/ghostbusters.html",
+            "http_status": 200,
+            "heading": "Ghostbusters (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/girly-block.html",
+            "http_status": 200,
+            "heading": "Girly Block (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gitahei.html",
+            "http_status": 200,
+            "heading": "Gitahei (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/glider.html",
+            "http_status": 200,
+            "heading": "Glider (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gniffel.html",
+            "http_status": 200,
+            "heading": "Gniffel (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/godzilla-kun.html",
+            "http_status": 200,
+            "heading": "Godzilla (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/godzilla-vs-3-giant-monsters.html",
+            "http_status": 200,
+            "heading": "Godzilla vs. 3 Giant Monsters (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gokiburi-daisakusen-bug-bomb.html",
+            "http_status": 200,
+            "heading": "Gokiburi Daisakusen: Bug Bomb (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/golf-game.html",
+            "http_status": 200,
+            "heading": "Golf Game (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/golgo-13-okami-no-su.html",
+            "http_status": 200,
+            "heading": "Golgo 13 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/golvellius.html",
+            "http_status": 200,
+            "heading": "Golvellius (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gomoku-narabe.html",
+            "http_status": 200,
+            "heading": "Gomoku Narabe (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/goofy-yaji-kita-secrets-on-the-way.html",
+            "http_status": 200,
+            "heading": "Goofy Yaji Kita (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/goonies.html",
+            "http_status": 200,
+            "heading": "Goonies (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gp-world.html",
+            "http_status": 200,
+            "heading": "G.P. World (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gradius-2.html",
+            "http_status": 200,
+            "heading": "Gradius 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gradius.html",
+            "http_status": 200,
+            "heading": "Gradius (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/green-beret.html",
+            "http_status": 200,
+            "heading": "Green Beret (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/green-crystal.html",
+            "http_status": 200,
+            "heading": "Green Crystal (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/griel-quest-for-the-sangraal.html",
+            "http_status": 200,
+            "heading": "Griel's Quest for the Sangraal (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/guardic.html",
+            "http_status": 200,
+            "heading": "Guardic (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gulkave.html",
+            "http_status": 200,
+            "heading": "Gulkave (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gunfright.html",
+            "http_status": 200,
+            "heading": "Gunfright (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gunjin-shogi-mars.html",
+            "http_status": 200,
+            "heading": "Gunjin Shogi Mars (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/guru-logic.html",
+            "http_status": 200,
+            "heading": "Guru Logic (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gyro-adventure.html",
+            "http_status": 200,
+            "heading": "Gyro Adventure (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/gyrodine.html",
+            "http_status": 200,
+            "heading": "Gyrodine (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hacker.html",
+            "http_status": 200,
+            "heading": "Hacker (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/haja-no-fuuin.html",
+            "http_status": 200,
+            "heading": "Haja No Fuuin (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hanafuda-koikoi.html",
+            "http_status": 200,
+            "heading": "Hanafuda Koikoi (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hanafuda.html",
+            "http_status": 200,
+            "heading": "Hanafuda (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hang-on.html",
+            "http_status": 200,
+            "heading": "Hang-On (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/happy-fret.html",
+            "http_status": 200,
+            "heading": "Happy Fret (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/harapeko-pakkun.html",
+            "http_status": 200,
+            "heading": "Harapeko Pakkun (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hard-ball.html",
+            "http_status": 200,
+            "heading": "Hard Ball (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/harry-fox-msx-special.html",
+            "http_status": 200,
+            "heading": "Harry Fox MSX Special (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/harry-fox-yuki-no-maou-hen.html",
+            "http_status": 200,
+            "heading": "Harry Fox: Yuki no Maou hen (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hayabusa-moonsweeper.html",
+            "http_status": 200,
+            "heading": "Hayabusa: Moonsweeper (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/head-over-heels.html",
+            "http_status": 200,
+            "heading": "Head over Heels (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/heavy-boxing.html",
+            "http_status": 200,
+            "heading": "Heavy Boxing (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/heist.html",
+            "http_status": 200,
+            "heading": "Heist (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/heli-tank.html",
+            "http_status": 200,
+            "heading": "Heli Tank (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/heroes-of-the-lance.html",
+            "http_status": 200,
+            "heading": "Heroes of the Lance (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/higemaru-the-spirits-island.html",
+            "http_status": 200,
+            "heading": "Higemaru: The Spirits Island (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/high-school-kimengumi.html",
+            "http_status": 200,
+            "heading": "High School! Kimengumi (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/high-school-story.html",
+            "http_status": 200,
+            "heading": "High School Story (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/highway-star.html",
+            "http_status": 200,
+            "heading": "Highway Star (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hisha.html",
+            "http_status": 200,
+            "heading": "Hisha (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hole-in-one-professional.html",
+            "http_status": 200,
+            "heading": "Hole in One Professional (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hole-in-one-special.html",
+            "http_status": 200,
+            "heading": "Hole in One Special (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hopper.html",
+            "http_status": 200,
+            "heading": "Hopper (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hudson-3d-golf.html",
+            "http_status": 200,
+            "heading": "Hudson 3D Golf (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hustle-chumy.html",
+            "http_status": 200,
+            "heading": "Hustle! Chumy (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hydlide-2-shine-of-darkness.html",
+            "http_status": 200,
+            "heading": "Hydlide 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hydlide-3-the-space-memories.html",
+            "http_status": 200,
+            "heading": "Hydlide 3 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hydlide.html",
+            "http_status": 200,
+            "heading": "Hydlide (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hype.html",
+            "http_status": 200,
+            "heading": "Hype (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-olympic-1.html",
+            "http_status": 200,
+            "heading": "Hyper Olympic 1 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-olympic-2.html",
+            "http_status": 200,
+            "heading": "Hyper Olympic 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-rally.html",
+            "http_status": 200,
+            "heading": "Hyper Rally (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-sports-1.html",
+            "http_status": 200,
+            "heading": "Hyper Sports 1 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-sports-2.html",
+            "http_status": 200,
+            "heading": "Hyper Sports 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/hyper-sports-3.html",
+            "http_status": 200,
+            "heading": "Hyper Sports 3 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/ice-world.html",
+            "http_status": 200,
+            "heading": "Ice World (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/ide-yousuke-meijin-no-jissen-mahjong.html",
+            "http_status": 200,
+            "heading": "Ide Yousuke Meijin no Jissen Mahjong (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/ikari.html",
+            "http_status": 200,
+            "heading": "Ikari (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/iligks-episode-1-theseus.html",
+            "http_status": 200,
+            "heading": "Iligks Episode I (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/iligks-episode-4.html",
+            "http_status": 200,
+            "heading": "Iligks Episode IV (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/indians-adventure.html",
+            "http_status": 200,
+            "heading": "Indian's Adventure (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/mah-jong-2.html",
+            "http_status": 200,
+            "heading": "Mah-Jong 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/nemesis-3-the-eve-of-destruction.html",
+            "http_status": 200,
+            "heading": "Nemesis 3 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/pretty-sheep.html",
+            "http_status": 200,
+            "heading": "Pretty Sheep (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/small-ninja-2.html",
+            "http_status": 200,
+            "heading": "Small Ninja 2 (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/small-ninja.html",
+            "http_status": 200,
+            "heading": "Small Ninja (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/storm-of-the-meiji-restoration.html",
+            "http_status": 200,
+            "heading": "Storm of the Meiji Restoration (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/uncharted-waters.html",
+            "http_status": 200,
+            "heading": "Uncharted Waters (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://gam.onl/msx/way-of-the-ninja.html",
+            "http_status": 200,
+            "heading": "Way of the Ninja (MSX) Play Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Akanbe Dragon (MSX) Play Online",
+            "Barbarian (MSX) Play Online",
+            "Becky (MSX) Play Online",
+            "Bull and Mighty's Slim Chance (MSX) Play Online",
+            "Crest of the Dragon King Hades of Darkness (MSX) Play Online",
+            "Daisenryaku (MSX) Play Online",
+            "Daiva Story 4 (MSX) Play Online",
+            "Dam Busters (MSX) Play Online",
+            "Danger X4 (MSX) Play Online",
+            "Darwin 4078 (MSX) Play Online",
+            "David 2 (MSX) Play Online",
+            "Dawn Patrol (MSX) Play Online",
+            "Decathlon (MSX) Play Online",
+            "Deep Dungeon 2 (MSX) Play Online",
+            "Deep Dungeon Adventure (MSX) Play Online",
+            "Deep Dungeon (MSX) Play Online",
+            "Deep Forest (MSX) Play Online",
+            "Knither Special (MSX) Play Online",
+            "Demon Crystal (MSX) Play Online",
+            "Demonia (MSX) Play Online",
+            "Devil's Heaven (MSX) Play Online",
+            "Dig Dug (MSX) Play Online",
+            "Digital Devil Story: Megami Tensei (MSX) Play Online",
+            "Dip Dip (MSX) Play Online",
+            "DIRES: Giger Loop (MSX) Play Online",
+            "Doki Doki Penguin Land (MSX) Play Online",
+            "Door Door Mk2 (MSX) Play Online",
+            "Dorodon (MSX) Play Online",
+            "Dragon Attack (MSX) Play Online",
+            "Dragon Buster (MSX) Play Online",
+            "Dragon Quest 2 (MSX) Play Online",
+            "Dragon Quest (MSX) Play Online",
+            "Dragon Slayer 2 (MSX) Play Online",
+            "Dragon Slayer 3 (MSX) Play Online",
+            "Dragon Slayer 4 (MSX) Play Online",
+            "Dragon Slayer (MSX) Play Online",
+            "Drainer (MSX) Play Online",
+            "Driller Tanks (MSX) Play Online",
+            "Druid (MSX) Play Online",
+            "Dungeon Hunter (MSX) Play Online",
+            "Dungeon Master (MSX) Play Online",
+            "Dunk Shot (MSX) Play Online",
+            "Dustin (MSX) Play Online",
+            "Dynamite Bowl (MSX) Play Online",
+            "Eagle Fighter (MSX) Play Online",
+            "Eat Blue! (MSX) Play Online",
+            "Eggerland 2 (MSX) Play Online",
+            "Eggerland Mystery (MSX) Play Online",
+            "Eidolon (MSX) Play Online",
+            "Elevator Action (MSX) Play Online",
+            "Empereur (MSX) Play Online",
+            "Erika (MSX) Play Online",
+            "Erusurid: Elslid (MSX) Play Online",
+            "Evil Mansion: Goblin (MSX) Play Online",
+            "Exa Innova (MSX) Play Online",
+            "Exchanger (MSX) Play Online",
+            "Exciting Jockey (MSX) Play Online",
+            "Exerion 2 (MSX) Play Online",
+            "Exerion (MSX) Play Online",
+            "Exoide-Z Area 5 (MSX) Play Online",
+            "Exoide-Z (MSX) Play Online",
+            "F-1 Spirit (MSX) Play Online",
+            "F-15 Strike Eagle (MSX) Play Online",
+            "F1 Douchuuki (MSX) Play Online",
+            "F16 Fighting Falcon (MSX) Play Online",
+            "Fa Tetris (MSX) Play Online",
+            "Factory Infection (MSX) Play Online",
+            "Fairy (MSX) Play Online",
+            "Fairyland Story (MSX) Play Online",
+            "Famicle Parodic (MSX) Play Online",
+            "Family Billiards (MSX) Play Online",
+            "Family Boxing (MSX) Play Online",
+            "Family Stadium Pro Baseball (MSX) Play Online",
+            "Fantasy Zone 2 (MSX) Play Online",
+            "Fantasy Zone (MSX) Play Online",
+            "Feedback (MSX) Play Online",
+            "Fighter's Ragnarok (MSX) Play Online",
+            "Final Justice (MSX) Play Online",
+            "Final Mahjong (MSX) Play Online",
+            "Final Zone Wolf (MSX) Play Online",
+            "Fire Ball (MSX) Play Online",
+            "Fire Rescue (MSX) Play Online",
+            "Firebird (MSX) Play Online",
+            "Flappy Limited '85 (MSX) Play Online",
+            "Flappy Limited (MSX) Play Online",
+            "Flash Splash (MSX) Play Online",
+            "Flashpoint (MSX) Play Online",
+            "Fleet Commander 2 (MSX) Play Online",
+            "Flicky (MSX) Play Online",
+            "Flics (MSX) Play Online",
+            "Flight Deck 2 (MSX) Play Online",
+            "Flight Simulator (MSX) Play Online",
+            "Flipper Slipper (MSX) Play Online",
+            "Formation Z (MSX) Play Online",
+            "Frogger (MSX) Play Online",
+            "Front Line (MSX) Play Online",
+            "Fruit Panic (MSX) Play Online",
+            "Fruit Search (MSX) Play Online",
+            "Funky Mouse (MSX) Play Online",
+            "Futbol (MSX) Play Online",
+            "Galaga (MSX) Play Online",
+            "Galaxian (MSX) Play Online",
+            "Gall Force: Defense of Chaos (MSX) Play Online",
+            "Galmoon (MSX) Play Online",
+            "Gambler Jiko Chuushinha 2 (MSX) Play Online",
+            "Gambler Jiko Chuushinha (MSX) Play Online",
+            "Ganbare Goemon! (MSX) Play Online",
+            "Garyuoh (MSX) Play Online",
+            "Gekitotsu Pennant Race 2 (MSX) Play Online",
+            "Gekitotsu Pennant Race (MSX) Play Online",
+            "Genghis Khan 2 (MSX) Play Online",
+            "Genghis Khan (MSX) Play Online",
+            "Ghostbusters (MSX) Play Online",
+            "Girly Block (MSX) Play Online",
+            "Gitahei (MSX) Play Online",
+            "Glider (MSX) Play Online",
+            "Gniffel (MSX) Play Online",
+            "Godzilla (MSX) Play Online",
+            "Godzilla vs. 3 Giant Monsters (MSX) Play Online",
+            "Gokiburi Daisakusen: Bug Bomb (MSX) Play Online",
+            "Golf Game (MSX) Play Online",
+            "Golgo 13 (MSX) Play Online",
+            "Golvellius (MSX) Play Online",
+            "Gomoku Narabe (MSX) Play Online",
+            "Goofy Yaji Kita (MSX) Play Online",
+            "Goonies (MSX) Play Online",
+            "G.P. World (MSX) Play Online",
+            "Gradius 2 (MSX) Play Online",
+            "Gradius (MSX) Play Online",
+            "Green Beret (MSX) Play Online",
+            "Green Crystal (MSX) Play Online",
+            "Griel's Quest for the Sangraal (MSX) Play Online",
+            "Guardic (MSX) Play Online",
+            "Gulkave (MSX) Play Online",
+            "Gunfright (MSX) Play Online",
+            "Gunjin Shogi Mars (MSX) Play Online",
+            "Guru Logic (MSX) Play Online",
+            "Gyro Adventure (MSX) Play Online",
+            "Gyrodine (MSX) Play Online",
+            "Hacker (MSX) Play Online",
+            "Haja No Fuuin (MSX) Play Online",
+            "Hanafuda Koikoi (MSX) Play Online",
+            "Hanafuda (MSX) Play Online",
+            "Hang-On (MSX) Play Online",
+            "Happy Fret (MSX) Play Online",
+            "Harapeko Pakkun (MSX) Play Online",
+            "Hard Ball (MSX) Play Online",
+            "Harry Fox MSX Special (MSX) Play Online",
+            "Harry Fox: Yuki no Maou hen (MSX) Play Online",
+            "Hayabusa: Moonsweeper (MSX) Play Online",
+            "Head over Heels (MSX) Play Online",
+            "Heavy Boxing (MSX) Play Online",
+            "Heist (MSX) Play Online",
+            "Heli Tank (MSX) Play Online",
+            "Heroes of the Lance (MSX) Play Online",
+            "Higemaru: The Spirits Island (MSX) Play Online",
+            "High School! Kimengumi (MSX) Play Online",
+            "High School Story (MSX) Play Online",
+            "Highway Star (MSX) Play Online",
+            "Hisha (MSX) Play Online",
+            "Hole in One Professional (MSX) Play Online",
+            "Hole in One Special (MSX) Play Online",
+            "Hopper (MSX) Play Online",
+            "Hudson 3D Golf (MSX) Play Online",
+            "Hustle! Chumy (MSX) Play Online",
+            "Hydlide 2 (MSX) Play Online",
+            "Hydlide 3 (MSX) Play Online",
+            "Hydlide (MSX) Play Online",
+            "Hype (MSX) Play Online",
+            "Hyper Olympic 1 (MSX) Play Online",
+            "Hyper Olympic 2 (MSX) Play Online",
+            "Hyper Rally (MSX) Play Online",
+            "Hyper Sports 1 (MSX) Play Online",
+            "Hyper Sports 2 (MSX) Play Online",
+            "Hyper Sports 3 (MSX) Play Online",
+            "Ice World (MSX) Play Online",
+            "Ide Yousuke Meijin no Jissen Mahjong (MSX) Play Online",
+            "Ikari (MSX) Play Online",
+            "Iligks Episode I (MSX) Play Online",
+            "Iligks Episode IV (MSX) Play Online",
+            "Indian's Adventure (MSX) Play Online",
+            "Mah-Jong 2 (MSX) Play Online",
+            "Nemesis 3 (MSX) Play Online",
+            "Pretty Sheep (MSX) Play Online",
+            "Small Ninja 2 (MSX) Play Online",
+            "Small Ninja (MSX) Play Online",
+            "Storm of the Meiji Restoration (MSX) Play Online",
+            "Uncharted Waters (MSX) Play Online",
+            "Way of the Ninja (MSX) Play Online"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "twoplayergames-org",
+        "url": "http://www.twoplayergames.org/sitemap-games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5162,
+        "added_count": 12,
+        "added_urls": [
+          "https://images.twoplayergames.org/files/games/h1/kick-lucky-blocks-online/kick-lucky-blocks-online.jpg",
+          "https://images.twoplayergames.org/files/games/o6/baldis-basic/baldis-basics.jpg",
+          "https://images.twoplayergames.org/files/games/o6/friday-night-funkin-org/fnf.jpg",
+          "https://images.twoplayergames.org/files/games/o6/granny/granny-5.jpg",
+          "https://images.twoplayergames.org/files/games/o6/run2.jpg",
+          "https://images.twoplayergames.org/files/games/other/vex-x3m-3.jpg",
+          "https://www.twoplayergames.org/game/baldis-basics",
+          "https://www.twoplayergames.org/game/fnf",
+          "https://www.twoplayergames.org/game/granny-5",
+          "https://www.twoplayergames.org/game/kick-lucky-blocks-online",
+          "https://www.twoplayergames.org/game/run-2",
+          "https://www.twoplayergames.org/game/vex-x3m-3"
+        ],
+        "heading_results": [
+          {
+            "url": "https://images.twoplayergames.org/files/games/h1/kick-lucky-blocks-online/kick-lucky-blocks-online.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/o6/baldis-basic/baldis-basics.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/o6/friday-night-funkin-org/fnf.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/o6/granny/granny-5.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/o6/run2.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/other/vex-x3m-3.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/baldis-basics",
+            "http_status": 200,
+            "heading": "Baldi's Basics",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/fnf",
+            "http_status": 200,
+            "heading": "FNF",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/granny-5",
+            "http_status": 200,
+            "heading": "Granny 5",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/kick-lucky-blocks-online",
+            "http_status": 200,
+            "heading": "Kick Lucky Blocks Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/run-2",
+            "http_status": 200,
+            "heading": "Run 2",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/vex-x3m-3",
+            "http_status": 200,
+            "heading": "Vex X3M 3",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Baldi's Basics",
+            "FNF",
+            "Granny 5",
+            "Kick Lucky Blocks Online",
+            "Run 2",
+            "Vex X3M 3"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "onlinegames",
+        "url": "https://www.onlinegames.io/sitemap.xml",
+        "status": "updated",
+        "reason": "heading_not_found",
+        "http_status": 200,
+        "url_count": 2360,
+        "added_count": 4,
+        "added_urls": [
+          "https://www.onlinegames.io/brainrots-lava-survive-online/",
+          "https://www.onlinegames.io/jump-master/",
+          "https://www.onlinegames.io/media/posts/1284/brainrots-lava-survive-online.webp",
+          "https://www.onlinegames.io/media/posts/1285/jump-master.webp"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.onlinegames.io/brainrots-lava-survive-online/",
+            "http_status": 200,
+            "heading": "Brainrots Lava Survive Online",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/jump-master/",
+            "http_status": 200,
+            "heading": "Jump Master",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1284/brainrots-lava-survive-online.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1285/jump-master.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Brainrots Lava Survive Online",
+            "Jump Master"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "dashmetry",
+        "url": "https://dashmetry.com/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1032,
+        "added_count": 5,
+        "added_urls": [
+          "https://dashmetry.com/farting-flight",
+          "https://dashmetry.com/hot-games",
+          "https://dashmetry.com/new-games",
+          "https://dashmetry.com/tap-brawl",
+          "https://dashmetry.com/top-popular"
+        ],
+        "heading_results": [
+          {
+            "url": "https://dashmetry.com/farting-flight",
+            "http_status": 200,
+            "heading": "Farting Flight",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/hot-games",
+            "http_status": 200,
+            "heading": "Hot Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/new-games",
+            "http_status": 200,
+            "heading": "New Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/tap-brawl",
+            "http_status": 200,
+            "heading": "Tap Brawl",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/top-popular",
+            "http_status": 200,
+            "heading": "Popular Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Farting Flight",
+            "Hot Games",
+            "New Games",
+            "Tap Brawl",
+            "Popular Games"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37714,
+        "added_count": 10,
+        "added_urls": [
+          "https://igroutka.ru/igry-boks/58265-sketch-boks.html",
+          "https://igroutka.ru/igry-dragocennye-kamni/58211-dragocennosti-korolevy.html",
+          "https://igroutka.ru/igry-golovolomki/58209-strelochki-golovolomka.html",
+          "https://igroutka.ru/igry-io/58069-veck-io.html",
+          "https://igroutka.ru/igry-monstry/58264-idl-monstr-mikser.html",
+          "https://igroutka.ru/igry-sliyanie/58263-sliyanie-pirozhnyh-kotyat.html",
+          "https://igroutka.ru/igry-sortirovka/58212-sortirovka-gaek-na-boltah.html",
+          "https://igroutka.ru/igry-v-slova/58213-pasyans-kategorii-slov.html",
+          "https://igroutka.ru/madzhong/58214-naydi-put-k-plitke-pary.html",
+          "https://igroutka.ru/matematicheskie-igry/58210-matematicheskiy-krossvord-uluchshite-arifmetiku.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/igry-boks/58265-sketch-boks.html",
+            "http_status": 200,
+            "heading": "Игра Скетч Бокс",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-dragocennye-kamni/58211-dragocennosti-korolevy.html",
+            "http_status": 200,
+            "heading": "Игра Драгоценности Королевы",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-golovolomki/58209-strelochki-golovolomka.html",
+            "http_status": 200,
+            "heading": "Игра Стрелочки Головоломка",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-io/58069-veck-io.html",
+            "http_status": 200,
+            "heading": "Игра Veck.io",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-monstry/58264-idl-monstr-mikser.html",
+            "http_status": 200,
+            "heading": "Игра Идл Монстр Миксер",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58263-sliyanie-pirozhnyh-kotyat.html",
+            "http_status": 200,
+            "heading": "Игра Слияние Пирожных Котят",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sortirovka/58212-sortirovka-gaek-na-boltah.html",
+            "http_status": 200,
+            "heading": "Игра Сортировка Гаек на Болтах",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-v-slova/58213-pasyans-kategorii-slov.html",
+            "http_status": 200,
+            "heading": "Игра Пасьянс: Категории Слов",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/madzhong/58214-naydi-put-k-plitke-pary.html",
+            "http_status": 200,
+            "heading": "Игра Найди Путь к Плитке (Пары)",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/matematicheskie-igry/58210-matematicheskiy-krossvord-uluchshite-arifmetiku.html",
+            "http_status": 200,
+            "heading": "Игра Математический Кроссворд: Улучшите Арифметику",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Скетч Бокс",
+            "Игра Драгоценности Королевы",
+            "Игра Стрелочки Головоломка",
+            "Игра Veck.io",
+            "Игра Идл Монстр Миксер",
+            "Игра Слияние Пирожных Котят",
+            "Игра Сортировка Гаек на Болтах",
+            "Игра Пасьянс: Категории Слов",
+            "Игра Найди Путь к Плитке (Пары)",
+            "Игра Математический Кроссворд: Улучшите Арифметику"
+          ]
+        },
+        "checked_at": "2026-05-14T07:00:00.596501+00:00"
+      }
+    ]
+  }
+]

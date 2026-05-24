@@ -1,0 +1,335 @@
+[
+  {
+    "checked_at": "2026-05-21T07:00:00.933336+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 5,
+      "added_urls_total": 21,
+      "errors": 1,
+      "heading_ok_total": 16,
+      "heading_failed_total": 5
+    },
+    "keywords": {
+      "keywords": [
+        "Numbers Match 2448",
+        "Sea Catcher",
+        "Chicken",
+        "Crazy Tractor",
+        "Don't Go Through That Door",
+        "Volley io",
+        "Golf Bit",
+        "Игра Руми Хантрикс: Кейпоп Охотницы",
+        "Игра Музыкальная Группа",
+        "Игра Эпическая Вышивка Крестиком",
+        "Игра Беги за Брейнротами!",
+        "Игра Обби: Прыгай за Брейнротами!",
+        "Игра Охота За Брейнротами: Онлайн",
+        "Игра Большая Рыбалка",
+        "Игра Идл Меч Рыцаря",
+        "Игра Сабвей Серф: Рим"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Numbers%20Match%202448,Sea%20Catcher,Chicken,Crazy%20Tractor,Don%27t%20Go%20Through%20That%20Door",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Volley%20io,Golf%20Bit,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A0%D1%83%D0%BC%D0%B8%20%D0%A5%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D0%BA%D1%81%3A%20%D0%9A%D0%B5%D0%B9%D0%BF%D0%BE%D0%BF%20%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%86%D1%8B,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0,%D0%98%D0%B3%D1%80%D0%B0%20%D0%AD%D0%BF%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%92%D1%8B%D1%88%D0%B8%D0%B2%D0%BA%D0%B0%20%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%BC",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%91%D0%B5%D0%B3%D0%B8%20%D0%B7%D0%B0%20%D0%91%D1%80%D0%B5%D0%B9%D0%BD%D1%80%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%21,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9E%D0%B1%D0%B1%D0%B8%3A%20%D0%9F%D1%80%D1%8B%D0%B3%D0%B0%D0%B9%20%D0%B7%D0%B0%20%D0%91%D1%80%D0%B5%D0%B9%D0%BD%D1%80%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%21,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%97%D0%B0%20%D0%91%D1%80%D0%B5%D0%B9%D0%BD%D1%80%D0%BE%D1%82%D0%B0%D0%BC%D0%B8%3A%20%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD,%D0%98%D0%B3%D1%80%D0%B0%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0,%D0%98%D0%B3%D1%80%D0%B0%20%D0%98%D0%B4%D0%BB%20%D0%9C%D0%B5%D1%87%20%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8F",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%B0%D0%B1%D0%B2%D0%B5%D0%B9%20%D0%A1%D0%B5%D1%80%D1%84%3A%20%D0%A0%D0%B8%D0%BC"
+    ],
+    "targets": [
+      {
+        "name": "poki-games",
+        "url": "https://poki.com/en/sitemaps/games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1491,
+        "added_count": 2,
+        "added_urls": [
+          "https://poki.com/en/g/numbers-match",
+          "https://poki.com/en/g/sea-catcher"
+        ],
+        "heading_results": [
+          {
+            "url": "https://poki.com/en/g/numbers-match",
+            "http_status": 200,
+            "heading": "Numbers Match 2448",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://poki.com/en/g/sea-catcher",
+            "http_status": 200,
+            "heading": "Sea Catcher",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Numbers Match 2448",
+            "Sea Catcher"
+          ]
+        },
+        "checked_at": "2026-05-21T07:00:00.933336+00:00"
+      },
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1895,
+        "added_count": 4,
+        "added_urls": [
+          "https://1games.io/chicken",
+          "https://1games.io/crazy-tractor",
+          "https://1games.io/dont-go-through-that-door",
+          "https://1games.io/volley-io"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/chicken",
+            "http_status": 200,
+            "heading": "Chicken",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/crazy-tractor",
+            "http_status": 200,
+            "heading": "Crazy Tractor",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/dont-go-through-that-door",
+            "http_status": 200,
+            "heading": "Don't Go Through That Door",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/volley-io",
+            "http_status": 200,
+            "heading": "Volley io",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Chicken",
+            "Crazy Tractor",
+            "Don't Go Through That Door",
+            "Volley io"
+          ]
+        },
+        "checked_at": "2026-05-21T07:00:00.933336+00:00"
+      },
+      {
+        "name": "onlinegames",
+        "url": "https://www.onlinegames.io/sitemap.xml",
+        "status": "updated",
+        "reason": "heading_not_found",
+        "http_status": 200,
+        "url_count": 2368,
+        "added_count": 2,
+        "added_urls": [
+          "https://www.onlinegames.io/golf-bit/",
+          "https://www.onlinegames.io/media/posts/1289/golf-bit.webp"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.onlinegames.io/golf-bit/",
+            "http_status": 200,
+            "heading": "Golf Bit",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1289/golf-bit.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Golf Bit"
+          ]
+        },
+        "checked_at": "2026-05-21T07:00:00.933336+00:00"
+      },
+      {
+        "name": "friv",
+        "url": "https://www.friv.com/sitemap.xml",
+        "status": "updated",
+        "reason": "heading_not_found",
+        "http_status": 200,
+        "url_count": 1108,
+        "added_count": 4,
+        "added_urls": [
+          "https://www.friv.com/z/games/bazookachaos/game.html",
+          "https://www.friv.com/z/games/buildland/game.html",
+          "https://www.friv.com/z/games/cannonmerge/game.html",
+          "https://www.friv.com/z/games/mergecivilization/game.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.friv.com/z/games/bazookachaos/game.html",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.friv.com/z/games/buildland/game.html",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.friv.com/z/games/cannonmerge/game.html",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.friv.com/z/games/mergecivilization/game.html",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          }
+        ],
+        "keywords": {
+          "keywords": []
+        },
+        "checked_at": "2026-05-21T07:00:00.933336+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37764,
+        "added_count": 9,
+        "added_urls": [
+          "https://igroutka.ru/dlya-devochek/58194-rumi-hantriks-keypop-ohotnicy.html",
+          "https://igroutka.ru/igry-muzyka/58262-muzykalnaya-gruppa.html",
+          "https://igroutka.ru/igry-raskraski-po-kletochkam/58188-epicheskaya-vyshivka-krestikom.html",
+          "https://igroutka.ru/igry-robloks/58187-begi-za-breynrotami.html",
+          "https://igroutka.ru/igry-robloks/58190-obbi-prygay-za-breynrotami.html",
+          "https://igroutka.ru/igry-robloks/58191-ohota-za-breynrotami-onlayn.html",
+          "https://igroutka.ru/igry-rybalka/58186-bolshaya-rybalka.html",
+          "https://igroutka.ru/igry-rycari/58259-idl-mech-rycarya.html",
+          "https://igroutka.ru/igry-subway-surfers/58266-sabvey-serf-rim.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/dlya-devochek/58194-rumi-hantriks-keypop-ohotnicy.html",
+            "http_status": 200,
+            "heading": "Игра Руми Хантрикс: Кейпоп Охотницы",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-muzyka/58262-muzykalnaya-gruppa.html",
+            "http_status": 200,
+            "heading": "Игра Музыкальная Группа",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-raskraski-po-kletochkam/58188-epicheskaya-vyshivka-krestikom.html",
+            "http_status": 200,
+            "heading": "Игра Эпическая Вышивка Крестиком",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58187-begi-za-breynrotami.html",
+            "http_status": 200,
+            "heading": "Игра Беги за Брейнротами!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58190-obbi-prygay-za-breynrotami.html",
+            "http_status": 200,
+            "heading": "Игра Обби: Прыгай за Брейнротами!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58191-ohota-za-breynrotami-onlayn.html",
+            "http_status": 200,
+            "heading": "Игра Охота За Брейнротами: Онлайн",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-rybalka/58186-bolshaya-rybalka.html",
+            "http_status": 200,
+            "heading": "Игра Большая Рыбалка",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-rycari/58259-idl-mech-rycarya.html",
+            "http_status": 200,
+            "heading": "Игра Идл Меч Рыцаря",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-subway-surfers/58266-sabvey-serf-rim.html",
+            "http_status": 200,
+            "heading": "Игра Сабвей Серф: Рим",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Руми Хантрикс: Кейпоп Охотницы",
+            "Игра Музыкальная Группа",
+            "Игра Эпическая Вышивка Крестиком",
+            "Игра Беги за Брейнротами!",
+            "Игра Обби: Прыгай за Брейнротами!",
+            "Игра Охота За Брейнротами: Онлайн",
+            "Игра Большая Рыбалка",
+            "Игра Идл Меч Рыцаря",
+            "Игра Сабвей Серф: Рим"
+          ]
+        },
+        "checked_at": "2026-05-21T07:00:00.933336+00:00"
+      }
+    ]
+  }
+]

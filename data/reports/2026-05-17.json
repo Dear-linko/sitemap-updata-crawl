@@ -1,0 +1,232 @@
+[
+  {
+    "checked_at": "2026-05-17T07:00:01.194009+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 3,
+      "added_urls_total": 14,
+      "errors": 1,
+      "heading_ok_total": 14,
+      "heading_failed_total": 0
+    },
+    "keywords": {
+      "keywords": [
+        "DO NOT FEED THE VIRUS",
+        "Pixel Wars",
+        "Basket Master",
+        "Sprunki: Slap Battle 3D Arena",
+        "Игра Найди Спрятанных Котиков",
+        "Игра Ярость Танков",
+        "Игра Мастер Подсчета 3Д",
+        "Игра Стрелка! Распутай Клубок",
+        "Игра Shootoff: Counterattack",
+        "Игра Слайсер Дуо",
+        "Игра Бегущий Рыцарь",
+        "Игра Merge Cake",
+        "Игра Битва Штатов",
+        "Игра Путь Героя"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=DO%20NOT%20FEED%20THE%20VIRUS,Pixel%20Wars,Basket%20Master,Sprunki%3A%20Slap%20Battle%203D%20Arena,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9D%D0%B0%D0%B9%D0%B4%D0%B8%20%D0%A1%D0%BF%D1%80%D1%8F%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%9A%D0%BE%D1%82%D0%B8%D0%BA%D0%BE%D0%B2",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%AF%D1%80%D0%BE%D1%81%D1%82%D1%8C%20%D0%A2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80%20%D0%9F%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%D0%B0%203%D0%94,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0%21%20%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D0%B0%D0%B9%20%D0%9A%D0%BB%D1%83%D0%B1%D0%BE%D0%BA,%D0%98%D0%B3%D1%80%D0%B0%20Shootoff%3A%20Counterattack,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BB%D0%B0%D0%B9%D1%81%D0%B5%D1%80%20%D0%94%D1%83%D0%BE",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%91%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9%20%D0%A0%D1%8B%D1%86%D0%B0%D1%80%D1%8C,%D0%98%D0%B3%D1%80%D0%B0%20Merge%20Cake,%D0%98%D0%B3%D1%80%D0%B0%20%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D0%A8%D1%82%D0%B0%D1%82%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D1%83%D1%82%D1%8C%20%D0%93%D0%B5%D1%80%D0%BE%D1%8F"
+    ],
+    "targets": [
+      {
+        "name": "armorgames",
+        "url": "https://armorgames.com/sitemap",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5463,
+        "added_count": 2,
+        "added_urls": [
+          "https://armorgames.com/do-not-feed-the-virus-game/19652",
+          "https://armorgames.com/pixel-wars-game/19685"
+        ],
+        "heading_results": [
+          {
+            "url": "https://armorgames.com/do-not-feed-the-virus-game/19652",
+            "http_status": 200,
+            "heading": "DO NOT FEED THE VIRUS",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://armorgames.com/pixel-wars-game/19685",
+            "http_status": 200,
+            "heading": "Pixel Wars",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "DO NOT FEED THE VIRUS",
+            "Pixel Wars"
+          ]
+        },
+        "checked_at": "2026-05-17T07:00:01.194009+00:00"
+      },
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1877,
+        "added_count": 2,
+        "added_urls": [
+          "https://1games.io/basket-master",
+          "https://1games.io/sprunki-slap-battle-3d-arena"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/basket-master",
+            "http_status": 200,
+            "heading": "Basket Master",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/sprunki-slap-battle-3d-arena",
+            "http_status": 200,
+            "heading": "Sprunki: Slap Battle 3D Arena",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Basket Master",
+            "Sprunki: Slap Battle 3D Arena"
+          ]
+        },
+        "checked_at": "2026-05-17T07:00:01.194009+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37736,
+        "added_count": 10,
+        "added_urls": [
+          "https://igroutka.ru/dlya-devochek/koshki/58286-naydi-spryatannyh-kotikov.html",
+          "https://igroutka.ru/dlya-malchikov/tanki/58285-fyuri-tanki.html",
+          "https://igroutka.ru/igry-arkady/58260-master-podscheta-3d.html",
+          "https://igroutka.ru/igry-golovolomki/58201-strelka-rasputay-klubok.html",
+          "https://igroutka.ru/igry-kontr-strayk/58202-shootoff-counterattack.html",
+          "https://igroutka.ru/igry-nozhi/58268-slayser-duo.html",
+          "https://igroutka.ru/igry-platformery/58261-beguschiy-rycar.html",
+          "https://igroutka.ru/igry-sliyanie/58200-merge-cake.html",
+          "https://igroutka.ru/igry-strategii/58284-bitva-shtatov.html",
+          "https://igroutka.ru/yandeks-igry/58203-put-geroya.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/dlya-devochek/koshki/58286-naydi-spryatannyh-kotikov.html",
+            "http_status": 200,
+            "heading": "Игра Найди Спрятанных Котиков",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/dlya-malchikov/tanki/58285-fyuri-tanki.html",
+            "http_status": 200,
+            "heading": "Игра Ярость Танков",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-arkady/58260-master-podscheta-3d.html",
+            "http_status": 200,
+            "heading": "Игра Мастер Подсчета 3Д",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-golovolomki/58201-strelka-rasputay-klubok.html",
+            "http_status": 200,
+            "heading": "Игра Стрелка! Распутай Клубок",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-kontr-strayk/58202-shootoff-counterattack.html",
+            "http_status": 200,
+            "heading": "Игра Shootoff: Counterattack",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-nozhi/58268-slayser-duo.html",
+            "http_status": 200,
+            "heading": "Игра Слайсер Дуо",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-platformery/58261-beguschiy-rycar.html",
+            "http_status": 200,
+            "heading": "Игра Бегущий Рыцарь",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58200-merge-cake.html",
+            "http_status": 200,
+            "heading": "Игра Merge Cake",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-strategii/58284-bitva-shtatov.html",
+            "http_status": 200,
+            "heading": "Игра Битва Штатов",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/yandeks-igry/58203-put-geroya.html",
+            "http_status": 200,
+            "heading": "Игра Путь Героя",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Найди Спрятанных Котиков",
+            "Игра Ярость Танков",
+            "Игра Мастер Подсчета 3Д",
+            "Игра Стрелка! Распутай Клубок",
+            "Игра Shootoff: Counterattack",
+            "Игра Слайсер Дуо",
+            "Игра Бегущий Рыцарь",
+            "Игра Merge Cake",
+            "Игра Битва Штатов",
+            "Игра Путь Героя"
+          ]
+        },
+        "checked_at": "2026-05-17T07:00:01.194009+00:00"
+      }
+    ]
+  }
+]

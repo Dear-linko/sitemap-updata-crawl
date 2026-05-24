@@ -1,0 +1,286 @@
+[
+  {
+    "checked_at": "2026-05-15T07:00:00.872339+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 3,
+      "added_urls_total": 19,
+      "errors": 2,
+      "heading_ok_total": 18,
+      "heading_failed_total": 1
+    },
+    "keywords": {
+      "keywords": [
+        "CS 1",
+        "Fish Quest",
+        "Hardcore motorun",
+        "Operation Epic Furious: Strait to Hell",
+        "Pikto.fun",
+        "i8 City Driver",
+        "Игра Кухня Мечты",
+        "Игра Слайд Сафари",
+        "Игра Супергеройский Маникюр",
+        "Игра The Numbers",
+        "Игра ЦветныеВойны.ио",
+        "Игра Нашествие Пауков",
+        "Игра Пасьянс Паук: Идеальный Расклад",
+        "Игра Соединяй Фрукты: Сочное Слияние 2048",
+        "Игра Сортировка Сладостей по Полочкам",
+        "Игра Пиксель Дрифт Ретро Тетрис",
+        "Игра Плейграунд 3D",
+        "Игра Мерж Виль"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=CS%201,Fish%20Quest,Hardcore%20motorun,Operation%20Epic%20Furious%3A%20Strait%20to%20Hell,Pikto.fun",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=i8%20City%20Driver,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%9C%D0%B5%D1%87%D1%82%D1%8B,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BB%D0%B0%D0%B9%D0%B4%20%D0%A1%D0%B0%D1%84%D0%B0%D1%80%D0%B8,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9C%D0%B0%D0%BD%D0%B8%D0%BA%D1%8E%D1%80,%D0%98%D0%B3%D1%80%D0%B0%20The%20Numbers",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%A6%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5%D0%92%D0%BE%D0%B9%D0%BD%D1%8B.%D0%B8%D0%BE,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9D%D0%B0%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%9F%D0%B0%D1%83%D0%BA%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%B0%D1%81%D1%8C%D1%8F%D0%BD%D1%81%20%D0%9F%D0%B0%D1%83%D0%BA%3A%20%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%A0%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%20%D0%A4%D1%80%D1%83%D0%BA%D1%82%D1%8B%3A%20%D0%A1%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%202048,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%A1%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%9F%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%D0%BC",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%94%D1%80%D0%B8%D1%84%D1%82%20%D0%A0%D0%B5%D1%82%D1%80%D0%BE%20%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D1%81,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%BB%D0%B5%D0%B9%D0%B3%D1%80%D0%B0%D1%83%D0%BD%D0%B4%203D,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9C%D0%B5%D1%80%D0%B6%20%D0%92%D0%B8%D0%BB%D1%8C"
+    ],
+    "targets": [
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1879,
+        "added_count": 5,
+        "added_urls": [
+          "https://1games.io/cs-1",
+          "https://1games.io/fish-quest",
+          "https://1games.io/hardcore-motorun",
+          "https://1games.io/operation-epic-furious-strait-to-hell",
+          "https://1games.io/pikto-fun"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/cs-1",
+            "http_status": 200,
+            "heading": "CS 1",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/fish-quest",
+            "http_status": 200,
+            "heading": "Fish Quest",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/hardcore-motorun",
+            "http_status": 200,
+            "heading": "Hardcore motorun",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/operation-epic-furious-strait-to-hell",
+            "http_status": 200,
+            "heading": "Operation Epic Furious: Strait to Hell",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/pikto-fun",
+            "http_status": 200,
+            "heading": "Pikto.fun",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "CS 1",
+            "Fish Quest",
+            "Hardcore motorun",
+            "Operation Epic Furious: Strait to Hell",
+            "Pikto.fun"
+          ]
+        },
+        "checked_at": "2026-05-15T07:00:00.872339+00:00"
+      },
+      {
+        "name": "onlinegames",
+        "url": "https://www.onlinegames.io/sitemap.xml",
+        "status": "updated",
+        "reason": "heading_not_found",
+        "http_status": 200,
+        "url_count": 2362,
+        "added_count": 2,
+        "added_urls": [
+          "https://www.onlinegames.io/i8-city-driver/",
+          "https://www.onlinegames.io/media/posts/1286/i8-city-driver.webp"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.onlinegames.io/i8-city-driver/",
+            "http_status": 200,
+            "heading": "i8 City Driver",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1286/i8-city-driver.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "i8 City Driver"
+          ]
+        },
+        "checked_at": "2026-05-15T07:00:00.872339+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37726,
+        "added_count": 12,
+        "added_urls": [
+          "https://igroutka.ru/dlya-devochek/gotovim-edu/58289-kuhnya-mechty.html",
+          "https://igroutka.ru/dlya-devochek/koshki/58292-slayd-safari.html",
+          "https://igroutka.ru/dlya-devochek/manikyur/58287-supergeroyskiy-manikyur.html",
+          "https://igroutka.ru/igry-golovolomki/58207-the-numbers.html",
+          "https://igroutka.ru/igry-io/58290-cvetnyevoyny-io.html",
+          "https://igroutka.ru/igry-monstry/58291-nashestvie-paukov.html",
+          "https://igroutka.ru/igry-pasyans-pauk/58216-pasyans-pauk---idealnyy-rasklad.html",
+          "https://igroutka.ru/igry-sliyanie/58208-soedinyay-frukty-sochnoe-sliyanie-2048.html",
+          "https://igroutka.ru/igry-sortirovka/58217-sortirovka-sladostey-po-polochkam.html",
+          "https://igroutka.ru/igry-tetris/58288-piksel-drift-retro-tetris.html",
+          "https://igroutka.ru/yandeks-igry/58205-pleygraund-3d.html",
+          "https://igroutka.ru/yandeks-igry/58206-merzh-vil.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/dlya-devochek/gotovim-edu/58289-kuhnya-mechty.html",
+            "http_status": 200,
+            "heading": "Игра Кухня Мечты",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/dlya-devochek/koshki/58292-slayd-safari.html",
+            "http_status": 200,
+            "heading": "Игра Слайд Сафари",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/dlya-devochek/manikyur/58287-supergeroyskiy-manikyur.html",
+            "http_status": 200,
+            "heading": "Игра Супергеройский Маникюр",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-golovolomki/58207-the-numbers.html",
+            "http_status": 200,
+            "heading": "Игра The Numbers",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-io/58290-cvetnyevoyny-io.html",
+            "http_status": 200,
+            "heading": "Игра ЦветныеВойны.ио",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-monstry/58291-nashestvie-paukov.html",
+            "http_status": 200,
+            "heading": "Игра Нашествие Пауков",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-pasyans-pauk/58216-pasyans-pauk---idealnyy-rasklad.html",
+            "http_status": 200,
+            "heading": "Игра Пасьянс Паук: Идеальный Расклад",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58208-soedinyay-frukty-sochnoe-sliyanie-2048.html",
+            "http_status": 200,
+            "heading": "Игра Соединяй Фрукты: Сочное Слияние 2048",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sortirovka/58217-sortirovka-sladostey-po-polochkam.html",
+            "http_status": 200,
+            "heading": "Игра Сортировка Сладостей по Полочкам",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-tetris/58288-piksel-drift-retro-tetris.html",
+            "http_status": 200,
+            "heading": "Игра Пиксель Дрифт Ретро Тетрис",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/yandeks-igry/58205-pleygraund-3d.html",
+            "http_status": 200,
+            "heading": "Игра Плейграунд 3D",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/yandeks-igry/58206-merzh-vil.html",
+            "http_status": 200,
+            "heading": "Игра Мерж Виль",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Кухня Мечты",
+            "Игра Слайд Сафари",
+            "Игра Супергеройский Маникюр",
+            "Игра The Numbers",
+            "Игра ЦветныеВойны.ио",
+            "Игра Нашествие Пауков",
+            "Игра Пасьянс Паук: Идеальный Расклад",
+            "Игра Соединяй Фрукты: Сочное Слияние 2048",
+            "Игра Сортировка Сладостей по Полочкам",
+            "Игра Пиксель Дрифт Ретро Тетрис",
+            "Игра Плейграунд 3D",
+            "Игра Мерж Виль"
+          ]
+        },
+        "checked_at": "2026-05-15T07:00:00.872339+00:00"
+      }
+    ]
+  }
+]

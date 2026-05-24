@@ -48,7 +48,7 @@ class SitemapFetcher:
     def _fetch_get(self, url: str) -> FetchResult:
         try:
             response = self.client.get(url)
-            if response.status_code >= 500:
+            if not 200 <= response.status_code < 300:
                 return FetchResult(
                     http_status=response.status_code,
                     error=f"GET failed: {response.status_code}",

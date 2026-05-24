@@ -50,3 +50,18 @@ def test_fetch_page_server_error() -> None:
     assert page.http_status == 503
 
     fetcher.close()
+
+
+def test_fetch_page_client_error_is_not_treated_as_content() -> None:
+    def handler(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(403, content=b"<html>challenge</html>")
+
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    fetcher = SitemapFetcher(timeout_sec=2, user_agent="test-agent", client=client)
+
+    page = fetcher.fetch_page("https://example.com/new-page")
+    assert page.error == "GET failed: 403"
+    assert page.http_status == 403
+    assert page.content_bytes is None
+
+    fetcher.close()

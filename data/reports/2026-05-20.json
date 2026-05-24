@@ -1,0 +1,483 @@
+[
+  {
+    "checked_at": "2026-05-20T07:00:01.281114+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 7,
+      "added_urls_total": 31,
+      "errors": 1,
+      "heading_ok_total": 27,
+      "heading_failed_total": 4
+    },
+    "keywords": {
+      "keywords": [
+        "Bills Must Be Paid",
+        "Stunt Protocol",
+        "Earn To Die",
+        "Neon Dash: Cyber Run",
+        "Portal Hop",
+        "Tube Fight",
+        "Void Tunnel",
+        "Wobbly Pets",
+        "ChickZ Stack",
+        "Run 3",
+        "Steal a Fish",
+        "Jumper's Quest",
+        "Hot Games",
+        "Long Leg Master",
+        "New Games",
+        "Popular Games",
+        "Игра Сезон Сбора Урожая",
+        "Игра Симулятор Догонялок: Гонки на Выживание 3Д",
+        "Игра Добыча Руды Майн!",
+        "Игра Неон Нексус: Эволюция Звездолета",
+        "Игра Японские Кроссворды: Нонограм",
+        "Игра Скорость За Клик: Обби",
+        "Игра Обби: Ограбь Базу Брейнрота!",
+        "Игра Пиксельный Поток",
+        "Игра Bubble Shooter 3D"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Bills%20Must%20Be%20Paid,Stunt%20Protocol,Earn%20To%20Die,Neon%20Dash%3A%20Cyber%20Run,Portal%20Hop",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Tube%20Fight,Void%20Tunnel,Wobbly%20Pets,ChickZ%20Stack,Run%203",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Steal%20a%20Fish,Jumper%27s%20Quest,Hot%20Games,Long%20Leg%20Master,New%20Games",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Popular%20Games,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD%20%D0%A1%D0%B1%D0%BE%D1%80%D0%B0%20%D0%A3%D1%80%D0%BE%D0%B6%D0%B0%D1%8F,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20%D0%94%D0%BE%D0%B3%D0%BE%D0%BD%D1%8F%D0%BB%D0%BE%D0%BA%3A%20%D0%93%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%203%D0%94,%D0%98%D0%B3%D1%80%D0%B0%20%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B0%20%D0%A0%D1%83%D0%B4%D1%8B%20%D0%9C%D0%B0%D0%B9%D0%BD%21,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9D%D0%B5%D0%BE%D0%BD%20%D0%9D%D0%B5%D0%BA%D1%81%D1%83%D1%81%3A%20%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F%20%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D0%BB%D0%B5%D1%82%D0%B0",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%B2%D0%BE%D1%80%D0%B4%D1%8B%3A%20%D0%9D%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%BC,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20%D0%97%D0%B0%20%D0%9A%D0%BB%D0%B8%D0%BA%3A%20%D0%9E%D0%B1%D0%B1%D0%B8,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9E%D0%B1%D0%B1%D0%B8%3A%20%D0%9E%D0%B3%D1%80%D0%B0%D0%B1%D1%8C%20%D0%91%D0%B0%D0%B7%D1%83%20%D0%91%D1%80%D0%B5%D0%B9%D0%BD%D1%80%D0%BE%D1%82%D0%B0%21,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%9F%D0%BE%D1%82%D0%BE%D0%BA,%D0%98%D0%B3%D1%80%D0%B0%20Bubble%20Shooter%203D"
+    ],
+    "targets": [
+      {
+        "name": "armorgames",
+        "url": "https://armorgames.com/sitemap",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5464,
+        "added_count": 1,
+        "added_urls": [
+          "https://armorgames.com/bills-must-be-paid-game/19686"
+        ],
+        "heading_results": [
+          {
+            "url": "https://armorgames.com/bills-must-be-paid-game/19686",
+            "http_status": 200,
+            "heading": "Bills Must Be Paid",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Bills Must Be Paid"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "poki-games",
+        "url": "https://poki.com/en/sitemaps/games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1489,
+        "added_count": 1,
+        "added_urls": [
+          "https://poki.com/en/g/stunt-protocol-two-players"
+        ],
+        "heading_results": [
+          {
+            "url": "https://poki.com/en/g/stunt-protocol-two-players",
+            "http_status": 200,
+            "heading": "Stunt Protocol",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Stunt Protocol"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1891,
+        "added_count": 6,
+        "added_urls": [
+          "https://1games.io/earn-to-die",
+          "https://1games.io/neon-dash-cyber-run",
+          "https://1games.io/portal-hop",
+          "https://1games.io/tube-fight",
+          "https://1games.io/void-tunnel",
+          "https://1games.io/wobbly-pets"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/earn-to-die",
+            "http_status": 200,
+            "heading": "Earn To Die",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/neon-dash-cyber-run",
+            "http_status": 200,
+            "heading": "Neon Dash: Cyber Run",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/portal-hop",
+            "http_status": 200,
+            "heading": "Portal Hop",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/tube-fight",
+            "http_status": 200,
+            "heading": "Tube Fight",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/void-tunnel",
+            "http_status": 200,
+            "heading": "Void Tunnel",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/wobbly-pets",
+            "http_status": 200,
+            "heading": "Wobbly Pets",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Earn To Die",
+            "Neon Dash: Cyber Run",
+            "Portal Hop",
+            "Tube Fight",
+            "Void Tunnel",
+            "Wobbly Pets"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "twoplayergames-org",
+        "url": "http://www.twoplayergames.org/sitemap-games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5176,
+        "added_count": 6,
+        "added_urls": [
+          "https://images.twoplayergames.org/files/games/o6/run-3.jpg",
+          "https://images.twoplayergames.org/files/games/other/ChickZ-Stack.jpg",
+          "https://images.twoplayergames.org/files/games/other/steal-a-fish.jpg",
+          "https://www.twoplayergames.org/game/chickz-stack",
+          "https://www.twoplayergames.org/game/run-3",
+          "https://www.twoplayergames.org/game/steal-a-fish"
+        ],
+        "heading_results": [
+          {
+            "url": "https://images.twoplayergames.org/files/games/o6/run-3.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/other/ChickZ-Stack.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://images.twoplayergames.org/files/games/other/steal-a-fish.jpg",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/chickz-stack",
+            "http_status": 200,
+            "heading": "ChickZ Stack",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/run-3",
+            "http_status": 200,
+            "heading": "Run 3",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.twoplayergames.org/game/steal-a-fish",
+            "http_status": 200,
+            "heading": "Steal a Fish",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "ChickZ Stack",
+            "Run 3",
+            "Steal a Fish"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "onlinegames",
+        "url": "https://www.onlinegames.io/sitemap.xml",
+        "status": "updated",
+        "reason": "heading_not_found",
+        "http_status": 200,
+        "url_count": 2366,
+        "added_count": 2,
+        "added_urls": [
+          "https://www.onlinegames.io/jumpers-quest/",
+          "https://www.onlinegames.io/media/posts/1288/jumpers-quest.webp"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.onlinegames.io/jumpers-quest/",
+            "http_status": 200,
+            "heading": "Jumper's Quest",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1288/jumpers-quest.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Jumper's Quest"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "dashmetry",
+        "url": "https://dashmetry.com/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1039,
+        "added_count": 6,
+        "added_urls": [
+          "https://dashmetry.com/hot-games",
+          "https://dashmetry.com/long-leg-master",
+          "https://dashmetry.com/new-games",
+          "https://dashmetry.com/top-popular",
+          "https://dashmetry.com/tube-fight",
+          "https://dashmetry.com/wobbly-pets"
+        ],
+        "heading_results": [
+          {
+            "url": "https://dashmetry.com/hot-games",
+            "http_status": 200,
+            "heading": "Hot Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/long-leg-master",
+            "http_status": 200,
+            "heading": "Long Leg Master",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/new-games",
+            "http_status": 200,
+            "heading": "New Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/top-popular",
+            "http_status": 200,
+            "heading": "Popular Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/tube-fight",
+            "http_status": 200,
+            "heading": "Tube Fight",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/wobbly-pets",
+            "http_status": 200,
+            "heading": "Wobbly Pets",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Hot Games",
+            "Long Leg Master",
+            "New Games",
+            "Popular Games",
+            "Tube Fight",
+            "Wobbly Pets"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37755,
+        "added_count": 9,
+        "added_urls": [
+          "https://igroutka.ru/igry-ferma/58105-sezon-sbora-urozhaya.html",
+          "https://igroutka.ru/igry-gonki-na-vyzhivanie/58221-simulyator-dogonyalok-gonki-na-vyzhivanie-3d.html",
+          "https://igroutka.ru/igry-kopatel/58196-dobycha-rudy-mayn.html",
+          "https://igroutka.ru/igry-kosmicheskie-strelyalki/58107-neon-neksus-evolyuciya-zvezdoleta.html",
+          "https://igroutka.ru/igry-krossvord/58198-yaponskie-krossvordy---nonogram.html",
+          "https://igroutka.ru/igry-robloks/58104-skorost-za-klik-obbi.html",
+          "https://igroutka.ru/igry-robloks/58197-obbi-ograb-bazu-breynrota.html",
+          "https://igroutka.ru/mini-igry/58199-pikselnyy-potok.html",
+          "https://igroutka.ru/yandeks-igry/58204-bubble-shooter-3d.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/igry-ferma/58105-sezon-sbora-urozhaya.html",
+            "http_status": 200,
+            "heading": "Игра Сезон Сбора Урожая",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-gonki-na-vyzhivanie/58221-simulyator-dogonyalok-gonki-na-vyzhivanie-3d.html",
+            "http_status": 200,
+            "heading": "Игра Симулятор Догонялок: Гонки на Выживание 3Д",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-kopatel/58196-dobycha-rudy-mayn.html",
+            "http_status": 200,
+            "heading": "Игра Добыча Руды Майн!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-kosmicheskie-strelyalki/58107-neon-neksus-evolyuciya-zvezdoleta.html",
+            "http_status": 200,
+            "heading": "Игра Неон Нексус: Эволюция Звездолета",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-krossvord/58198-yaponskie-krossvordy---nonogram.html",
+            "http_status": 200,
+            "heading": "Игра Японские Кроссворды: Нонограм",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58104-skorost-za-klik-obbi.html",
+            "http_status": 200,
+            "heading": "Игра Скорость За Клик: Обби",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58197-obbi-ograb-bazu-breynrota.html",
+            "http_status": 200,
+            "heading": "Игра Обби: Ограбь Базу Брейнрота!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/mini-igry/58199-pikselnyy-potok.html",
+            "http_status": 200,
+            "heading": "Игра Пиксельный Поток",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/yandeks-igry/58204-bubble-shooter-3d.html",
+            "http_status": 200,
+            "heading": "Игра Bubble Shooter 3D",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Сезон Сбора Урожая",
+            "Игра Симулятор Догонялок: Гонки на Выживание 3Д",
+            "Игра Добыча Руды Майн!",
+            "Игра Неон Нексус: Эволюция Звездолета",
+            "Игра Японские Кроссворды: Нонограм",
+            "Игра Скорость За Клик: Обби",
+            "Игра Обби: Ограбь Базу Брейнрота!",
+            "Игра Пиксельный Поток",
+            "Игра Bubble Shooter 3D"
+          ]
+        },
+        "checked_at": "2026-05-20T07:00:01.281114+00:00"
+      }
+    ]
+  }
+]

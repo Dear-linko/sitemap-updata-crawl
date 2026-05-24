@@ -142,13 +142,19 @@ def _process_target(
 ) -> Dict[str, Any]:
     content = fetcher.fetch_content_hash(target_url)
 
-    if content.error or content.content_bytes is None:
-        LOGGER.error("Check failed for %s: %s", target_url, content.error or "content_fetch_failed")
+    if (
+        content.error
+        or content.content_bytes is None
+        or content.http_status is None
+        or not 200 <= content.http_status < 300
+    ):
+        reason = content.error or "content_fetch_failed"
+        LOGGER.error("Check failed for %s: %s", target_url, reason)
         return {
             "name": target_name,
             "url": target_url,
             "status": "error",
-            "reason": "content_fetch_failed",
+            "reason": reason,
             "http_status": content.http_status,
             "url_count": 0,
             "added_count": 0,
@@ -259,8 +265,6 @@ def cmd_run_once(args: argparse.Namespace) -> int:
         fetcher.close()
         notifier.close()
 
-    save_baseline(args.baseline, baseline)
-
     updated_targets = [r for r in target_reports if r["added_count"] > 0]
     added_urls_total = sum(r["added_count"] for r in updated_targets)
     errors = sum(1 for r in target_reports if r["status"] == "error")
@@ -307,6 +311,8 @@ def cmd_run_once(args: argparse.Namespace) -> int:
             html_path = append_daily_html_report(config.html_report.output_dir, checked_at, run_report)
             LOGGER.info("HTML report updated: %s", html_path)
 
+        save_baseline(args.baseline, baseline)
+
         if config.telegram.enabled:
             if config.telegram.bot_token and config.telegram.chat_id:
                 telegram_text = _build_telegram_summary(
@@ -340,6 +346,7 @@ def cmd_run_once(args: argparse.Namespace) -> int:
             len(target_reports),
             errors,
         )
+        save_baseline(args.baseline, baseline)
     return 0
 
 

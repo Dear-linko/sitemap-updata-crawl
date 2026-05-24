@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import json
+import os
 import re
+import tempfile
 from html import escape
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional, TextIO
 
 
 def _ordered_unique(values: List[str]) -> List[str]:
@@ -125,19 +127,39 @@ def rebuild_html_reports(output_dir: str, reports_dir: str) -> int:
 
 
 def _write_json(path: Path, data: Any) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    with tmp.open("w", encoding="utf-8") as f:
+    def write(f: TextIO) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    tmp.replace(path)
+
+    _atomic_write(path, write)
 
 
 def _write_text(path: Path, text: str) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    tmp = path.with_suffix(path.suffix + ".tmp")
-    with tmp.open("w", encoding="utf-8") as f:
+    def write(f: TextIO) -> None:
         f.write(text)
-    tmp.replace(path)
+
+    _atomic_write(path, write)
+
+
+def _atomic_write(path: Path, write: Callable[[TextIO], None]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp_name = tempfile.mkstemp(
+        prefix=f".{path.name}.",
+        suffix=".tmp",
+        dir=str(path.parent),
+    )
+    tmp = Path(tmp_name)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            write(f)
+            f.flush()
+            os.fsync(f.fileno())
+        tmp.replace(path)
+    except Exception:
+        try:
+            tmp.unlink()
+        except FileNotFoundError:
+            pass
+        raise
 
 
 def _render_daily_html(date_key: str, daily_runs: List[Dict[str, Any]]) -> str:

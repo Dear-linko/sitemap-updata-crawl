@@ -1,0 +1,199 @@
+[
+  {
+    "checked_at": "2026-05-18T07:00:00.833834+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 2,
+      "added_urls_total": 13,
+      "errors": 1,
+      "heading_ok_total": 13,
+      "heading_failed_total": 0
+    },
+    "keywords": {
+      "keywords": [
+        "All Tags",
+        "Basket Cats",
+        "Hot Games",
+        "New Games",
+        "Pixel: It Was difficult",
+        "Recents",
+        "Free Games",
+        "Wurst Dash",
+        "Rooster Road",
+        "Popular Games"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=All%20Tags,Basket%20Cats,Hot%20Games,New%20Games,Pixel%3A%20It%20Was%20difficult",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Recents,Free%20Games,Wurst%20Dash,Rooster%20Road,Popular%20Games"
+    ],
+    "targets": [
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1885,
+        "added_count": 8,
+        "added_urls": [
+          "https://1games.io/all-tags",
+          "https://1games.io/basket-cats",
+          "https://1games.io/hot-games",
+          "https://1games.io/new-games",
+          "https://1games.io/pixel-it-was-difficult",
+          "https://1games.io/recents",
+          "https://1games.io/updated",
+          "https://1games.io/wurst-dash"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/all-tags",
+            "http_status": 200,
+            "heading": "All Tags",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/basket-cats",
+            "http_status": 200,
+            "heading": "Basket Cats",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/hot-games",
+            "http_status": 200,
+            "heading": "Hot Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/new-games",
+            "http_status": 200,
+            "heading": "New Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/pixel-it-was-difficult",
+            "http_status": 200,
+            "heading": "Pixel: It Was difficult",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/recents",
+            "http_status": 200,
+            "heading": "Recents",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/updated",
+            "http_status": 200,
+            "heading": "Free Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/wurst-dash",
+            "http_status": 200,
+            "heading": "Wurst Dash",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "All Tags",
+            "Basket Cats",
+            "Hot Games",
+            "New Games",
+            "Pixel: It Was difficult",
+            "Recents",
+            "Free Games",
+            "Wurst Dash"
+          ]
+        },
+        "checked_at": "2026-05-18T07:00:00.833834+00:00"
+      },
+      {
+        "name": "dashmetry",
+        "url": "https://dashmetry.com/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1035,
+        "added_count": 5,
+        "added_urls": [
+          "https://dashmetry.com/hot-games",
+          "https://dashmetry.com/new-games",
+          "https://dashmetry.com/rooster-road",
+          "https://dashmetry.com/top-popular",
+          "https://dashmetry.com/wurst-dash"
+        ],
+        "heading_results": [
+          {
+            "url": "https://dashmetry.com/hot-games",
+            "http_status": 200,
+            "heading": "Hot Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/new-games",
+            "http_status": 200,
+            "heading": "New Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/rooster-road",
+            "http_status": 200,
+            "heading": "Rooster Road",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/top-popular",
+            "http_status": 200,
+            "heading": "Popular Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://dashmetry.com/wurst-dash",
+            "http_status": 200,
+            "heading": "Wurst Dash",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Hot Games",
+            "New Games",
+            "Rooster Road",
+            "Popular Games",
+            "Wurst Dash"
+          ]
+        },
+        "checked_at": "2026-05-18T07:00:00.833834+00:00"
+      }
+    ]
+  }
+]

@@ -5,3 +5,8 @@ __pycache__/
 .env
 .env.*
 .cache/
+.pytest_cache/
+*.log
+*.err
+git-askpass-helper.sh
+data/*.corrupt-*

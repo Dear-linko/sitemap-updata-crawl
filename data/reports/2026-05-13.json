@@ -1,0 +1,409 @@
+[
+  {
+    "checked_at": "2026-05-13T07:00:01.556136+00:00",
+    "summary": {
+      "processed": 23,
+      "updated_targets": 5,
+      "added_urls_total": 27,
+      "errors": 1,
+      "heading_ok_total": 25,
+      "heading_failed_total": 2
+    },
+    "keywords": {
+      "keywords": [
+        "Cardmare: Descent",
+        "Tiger Tank 2",
+        "All Tags",
+        "Farting Flight",
+        "Fish Out of Water!",
+        "Hot Games",
+        "KS Z",
+        "New Games",
+        "Recents",
+        "Tap Brawl",
+        "Recently Updated - 1games.io",
+        "Vex X3M 3",
+        "Zombie Derby Pixel Survival",
+        "Escape from the Portal",
+        "Smash Defense",
+        "Игра Зарядить Аккумулятор 3",
+        "Игра Классика: Куча Пазлов",
+        "Игра Листочки Куча Пазлов",
+        "Игра Квадратики: Куча Пазлов",
+        "Игра Обби: Поездка На Картингах",
+        "Игра Соединяй Грибочки: Лесное Слияние 2048",
+        "Игра Шарики Цветочки",
+        "Игра Соединяй Российские Монеты!",
+        "Игра Слияние и Кража Брэйнрот",
+        "Игра Пираты и Пазлы 2"
+      ]
+    },
+    "google-trends": [
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Cardmare%3A%20Descent,Tiger%20Tank%202,All%20Tags,Farting%20Flight,Fish%20Out%20of%20Water%21",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Hot%20Games,KS%20Z,New%20Games,Recents,Tap%20Brawl",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=Recently%20Updated%20-%201games.io,Vex%20X3M%203,Zombie%20Derby%20Pixel%20Survival,Escape%20from%20the%20Portal,Smash%20Defense",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%B8%D1%82%D1%8C%20%D0%90%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%203,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%3A%20%D0%9A%D1%83%D1%87%D0%B0%20%D0%9F%D0%B0%D0%B7%D0%BB%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9B%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20%D0%9A%D1%83%D1%87%D0%B0%20%D0%9F%D0%B0%D0%B7%D0%BB%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B8%D0%BA%D0%B8%3A%20%D0%9A%D1%83%D1%87%D0%B0%20%D0%9F%D0%B0%D0%B7%D0%BB%D0%BE%D0%B2,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9E%D0%B1%D0%B1%D0%B8%3A%20%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0%20%D0%9D%D0%B0%20%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B3%D0%B0%D1%85",
+      "https://trends.google.com/trends/explore?date=today%201-m&q=%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%20%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D1%87%D0%BA%D0%B8%3A%20%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B5%20%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%202048,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A8%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%20%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%8F%D0%B9%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D1%8B%21,%D0%98%D0%B3%D1%80%D0%B0%20%D0%A1%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%9A%D1%80%D0%B0%D0%B6%D0%B0%20%D0%91%D1%80%D1%8D%D0%B9%D0%BD%D1%80%D0%BE%D1%82,%D0%98%D0%B3%D1%80%D0%B0%20%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B%20%D0%B8%20%D0%9F%D0%B0%D0%B7%D0%BB%D1%8B%202"
+    ],
+    "targets": [
+      {
+        "name": "armorgames",
+        "url": "https://armorgames.com/sitemap",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 5463,
+        "added_count": 1,
+        "added_urls": [
+          "https://armorgames.com/cardmare-descent-game/19684"
+        ],
+        "heading_results": [
+          {
+            "url": "https://armorgames.com/cardmare-descent-game/19684",
+            "http_status": 200,
+            "heading": "Cardmare: Descent",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Cardmare: Descent"
+          ]
+        },
+        "checked_at": "2026-05-13T07:00:01.556136+00:00"
+      },
+      {
+        "name": "poki-games",
+        "url": "https://poki.com/en/sitemaps/games.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1625,
+        "added_count": 1,
+        "added_urls": [
+          "https://poki.com/en/g/tiger-tank-2"
+        ],
+        "heading_results": [
+          {
+            "url": "https://poki.com/en/g/tiger-tank-2",
+            "http_status": 200,
+            "heading": "Tiger Tank 2",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Tiger Tank 2"
+          ]
+        },
+        "checked_at": "2026-05-13T07:00:01.556136+00:00"
+      },
+      {
+        "name": "1games",
+        "url": "https://1games.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 1872,
+        "added_count": 11,
+        "added_urls": [
+          "https://1games.io/all-tags",
+          "https://1games.io/farting-flight",
+          "https://1games.io/fish-out-of-water",
+          "https://1games.io/hot-games",
+          "https://1games.io/ks-z",
+          "https://1games.io/new-games",
+          "https://1games.io/recents",
+          "https://1games.io/tap-brawl",
+          "https://1games.io/updated",
+          "https://1games.io/vex-x3m-3",
+          "https://1games.io/zombie-derby-pixel-survival"
+        ],
+        "heading_results": [
+          {
+            "url": "https://1games.io/all-tags",
+            "http_status": 200,
+            "heading": "All Tags",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/farting-flight",
+            "http_status": 200,
+            "heading": "Farting Flight",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/fish-out-of-water",
+            "http_status": 200,
+            "heading": "Fish Out of Water!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/hot-games",
+            "http_status": 200,
+            "heading": "Hot Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/ks-z",
+            "http_status": 200,
+            "heading": "KS Z",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/new-games",
+            "http_status": 200,
+            "heading": "New Games",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/recents",
+            "http_status": 200,
+            "heading": "Recents",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/tap-brawl",
+            "http_status": 200,
+            "heading": "Tap Brawl",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/updated",
+            "http_status": 200,
+            "heading": "Recently Updated - 1games.io",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/vex-x3m-3",
+            "http_status": 200,
+            "heading": "Vex X3M 3",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://1games.io/zombie-derby-pixel-survival",
+            "http_status": 200,
+            "heading": "Zombie Derby Pixel Survival",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "All Tags",
+            "Farting Flight",
+            "Fish Out of Water!",
+            "Hot Games",
+            "KS Z",
+            "New Games",
+            "Recents",
+            "Tap Brawl",
+            "Recently Updated - 1games.io",
+            "Vex X3M 3",
+            "Zombie Derby Pixel Survival"
+          ]
+        },
+        "checked_at": "2026-05-13T07:00:01.556136+00:00"
+      },
+      {
+        "name": "onlinegames",
+        "url": "https://www.onlinegames.io/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 2356,
+        "added_count": 4,
+        "added_urls": [
+          "https://www.onlinegames.io/escape-from-the-portal/",
+          "https://www.onlinegames.io/media/posts/1282/smash-defense.webp",
+          "https://www.onlinegames.io/media/posts/1283/escape-from-the-portal.webp",
+          "https://www.onlinegames.io/smash-defense/"
+        ],
+        "heading_results": [
+          {
+            "url": "https://www.onlinegames.io/escape-from-the-portal/",
+            "http_status": 200,
+            "heading": "Escape from the Portal",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1282/smash-defense.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.onlinegames.io/media/posts/1283/escape-from-the-portal.webp",
+            "http_status": 200,
+            "heading": null,
+            "heading_tag": null,
+            "ok": false,
+            "reason": "heading_not_found"
+          },
+          {
+            "url": "https://www.onlinegames.io/smash-defense/",
+            "http_status": 200,
+            "heading": "Smash Defense",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Escape from the Portal",
+            "Smash Defense"
+          ]
+        },
+        "checked_at": "2026-05-13T07:00:01.556136+00:00"
+      },
+      {
+        "name": "igroutka",
+        "url": "https://igroutka.ru/uploads/sitemap.xml",
+        "status": "updated",
+        "reason": "ok_h1",
+        "http_status": 200,
+        "url_count": 37704,
+        "added_count": 10,
+        "added_urls": [
+          "https://igroutka.ru/igry-klikery/58056-zaryadit-akkumulyator-3.html",
+          "https://igroutka.ru/igry-pazly/58223-klassika---kucha-pazlov.html",
+          "https://igroutka.ru/igry-pazly/58224-listochki-kucha-pazlov.html",
+          "https://igroutka.ru/igry-pazly/58225-kvadratiki---kucha-pazlov.html",
+          "https://igroutka.ru/igry-robloks/58062-obbi-poezdka-na-kartingah.html",
+          "https://igroutka.ru/igry-sliyanie/58218-soedinyay-gribochki-lesnoe-sliyanie-2048.html",
+          "https://igroutka.ru/igry-sliyanie/58219-shariki-cvetochki.html",
+          "https://igroutka.ru/igry-sliyanie/58220-soedinyay-rossiyskie-monety.html",
+          "https://igroutka.ru/italyanskie-zhivotnye-memy/58060-sliyanie-i-krazha-breynrut.html",
+          "https://igroutka.ru/yandeks-igry/58164-piraty-i-pazly-2.html"
+        ],
+        "heading_results": [
+          {
+            "url": "https://igroutka.ru/igry-klikery/58056-zaryadit-akkumulyator-3.html",
+            "http_status": 200,
+            "heading": "Игра Зарядить Аккумулятор 3",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-pazly/58223-klassika---kucha-pazlov.html",
+            "http_status": 200,
+            "heading": "Игра Классика: Куча Пазлов",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-pazly/58224-listochki-kucha-pazlov.html",
+            "http_status": 200,
+            "heading": "Игра Листочки Куча Пазлов",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-pazly/58225-kvadratiki---kucha-pazlov.html",
+            "http_status": 200,
+            "heading": "Игра Квадратики: Куча Пазлов",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-robloks/58062-obbi-poezdka-na-kartingah.html",
+            "http_status": 200,
+            "heading": "Игра Обби: Поездка На Картингах",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58218-soedinyay-gribochki-lesnoe-sliyanie-2048.html",
+            "http_status": 200,
+            "heading": "Игра Соединяй Грибочки: Лесное Слияние 2048",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58219-shariki-cvetochki.html",
+            "http_status": 200,
+            "heading": "Игра Шарики Цветочки",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/igry-sliyanie/58220-soedinyay-rossiyskie-monety.html",
+            "http_status": 200,
+            "heading": "Игра Соединяй Российские Монеты!",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/italyanskie-zhivotnye-memy/58060-sliyanie-i-krazha-breynrut.html",
+            "http_status": 200,
+            "heading": "Игра Слияние и Кража Брэйнрот",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          },
+          {
+            "url": "https://igroutka.ru/yandeks-igry/58164-piraty-i-pazly-2.html",
+            "http_status": 200,
+            "heading": "Игра Пираты и Пазлы 2",
+            "heading_tag": "h1",
+            "ok": true,
+            "reason": "ok_h1"
+          }
+        ],
+        "keywords": {
+          "keywords": [
+            "Игра Зарядить Аккумулятор 3",
+            "Игра Классика: Куча Пазлов",
+            "Игра Листочки Куча Пазлов",
+            "Игра Квадратики: Куча Пазлов",
+            "Игра Обби: Поездка На Картингах",
+            "Игра Соединяй Грибочки: Лесное Слияние 2048",
+            "Игра Шарики Цветочки",
+            "Игра Соединяй Российские Монеты!",
+            "Игра Слияние и Кража Брэйнрот",
+            "Игра Пираты и Пазлы 2"
+          ]
+        },
+        "checked_at": "2026-05-13T07:00:01.556136+00:00"
+      }
+    ]
+  }
+]
