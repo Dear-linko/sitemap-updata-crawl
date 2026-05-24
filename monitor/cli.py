@@ -380,7 +380,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     html_rebuild = subparsers.add_parser("html-rebuild", help="Rebuild HTML reports from daily JSON files")
     html_rebuild.add_argument("--reports-dir", default="./data/reports", help="Daily JSON reports directory")
-    html_rebuild.add_argument("--output-dir", default="./docs", help="HTML reports output directory")
+    html_rebuild.add_argument("--output-dir", default="./.gh-pages", help="HTML reports output directory")
     html_rebuild.set_defaults(func=cmd_html_rebuild)
 
     return parser

@@ -24,7 +24,7 @@ class RawHtmlReportConfig(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
     enabled: bool = False
-    output_dir: str = Field(default="./docs", min_length=1)
+    output_dir: str = Field(default="./.gh-pages", min_length=1)
 
 
 class RawTelegramConfig(BaseModel):
