@@ -15,7 +15,7 @@
 - 自动生成 Google Trends 链接：
   - 字段名：`google-trends`
   - 值：链接数组（每 5 个关键词一条链接，最近30天、全球）
-- 可选 HTML 日汇总：当天有新增时更新 `docs/daily/YYYY-MM-DD.html`，并刷新 `docs/index.html`（GitHub Pages 直接发布该目录）
+- 可选 HTML 日汇总：当天有新增时更新 `.gh-pages/daily/YYYY-MM-DD.html`，并刷新 `.gh-pages/index.html`（`.gh-pages` 是 `gh-pages` 分支的 git worktree，由 `sync-reports.sh` 提交并推送，GitHub Pages 从 `gh-pages` 分支发布）
 - 可选 Telegram 汇总提醒：每次运行有新增时发 1 条摘要消息
 
 ## 数据文件
@@ -23,7 +23,7 @@
 - baseline：`./data/baseline.json`
 - 日报目录：`./data/reports/`
 - 日报文件：`YYYY-MM-DD.json`（仅当天有新增时生成/追加）
-- HTML 日报目录（可选）：`./docs/`（GitHub Pages 发布源，Pages 设置选 `main` 分支 `/docs`）
+- HTML 日报目录（可选）：`./.gh-pages/`（`gh-pages` 分支的 worktree；GitHub Pages 设置选 `gh-pages` 分支 `/(root)`。该目录已被 `.gitignore`，不会污染 `main`）
 
 ## 环境要求
 
@@ -102,7 +102,7 @@ make test
 
 ```bash
 make run-once CONFIG=./config.yaml BASELINE=./data/baseline.json REPORTS_DIR=./data/reports
-make html-rebuild REPORTS_DIR=./data/reports HTML_DIR=./docs
+make html-rebuild REPORTS_DIR=./data/reports HTML_DIR=./.gh-pages
 ```
 
 ## 配置
@@ -121,7 +121,7 @@ request_timeout_sec: 20
 user_agent: "sitemap-monitor/1.0"
 html_report:
   enabled: true
-  output_dir: "./docs"
+  output_dir: "./.gh-pages"
 telegram:
   enabled: false
   bot_token: null
@@ -172,7 +172,7 @@ python -m monitor run-once --config ./config.yaml --baseline ./data/baseline.jso
 - 强制重建 HTML（不依赖“本次有新增”）：
 
 ```bash
-python -m monitor html-rebuild --reports-dir ./data/reports --output-dir ./docs
+python -m monitor html-rebuild --reports-dir ./data/reports --output-dir ./.gh-pages
 ```
 
 - 查看帮助：
@@ -227,8 +227,8 @@ python -c "import yaml; print('ok')"
 
 HTML 日汇总：
 
-- 索引页：`docs/index.html`
-- 每日报告：`docs/daily/YYYY-MM-DD.html`
+- 索引页：`.gh-pages/index.html`
+- 每日报告：`.gh-pages/daily/YYYY-MM-DD.html`
 - 索引页每行展示：日期、last checked、`runs` / `added` / `targets` 关键数量
 - 详情页包含：
   - `Heading Collection`（支持一键复制所有 heading，逗号分隔）

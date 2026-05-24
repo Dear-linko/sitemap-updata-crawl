@@ -3,7 +3,7 @@ request_timeout_sec: 20
 user_agent: "sitemap-monitor/1.0"
 html_report:
   enabled: true
-  output_dir: "./docs"
+  output_dir: "./.gh-pages"
 telegram:
   enabled: false
   bot_token: null

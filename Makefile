@@ -2,7 +2,7 @@ PYTHON ?= .venv/bin/python
 CONFIG ?= ./config.yaml
 BASELINE ?= ./data/baseline.json
 REPORTS_DIR ?= ./data/reports
-HTML_DIR ?= ./docs
+HTML_DIR ?= ./.gh-pages
 
 .PHONY: help venv install doctor init-state run-once html-rebuild test
 

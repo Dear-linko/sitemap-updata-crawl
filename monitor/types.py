@@ -15,7 +15,7 @@ class TargetConfig:
 @dataclass(frozen=True)
 class HtmlReportConfig:
     enabled: bool = False
-    output_dir: str = "./docs"
+    output_dir: str = "./.gh-pages"
 
 
 @dataclass(frozen=True)

@@ -10,3 +10,4 @@ __pycache__/
 *.err
 git-askpass-helper.sh
 data/*.corrupt-*
+.gh-pages/
