@@ -181,7 +181,43 @@ python -m monitor html-rebuild --reports-dir ./data/reports --output-dir ./.gh-p
 python -m monitor --help
 ```
 
-## 常见问题
+## 发布到 GitHub Pages（gh-pages 分支）
+
+线上日报站点发布在本仓库的 **`gh-pages` 孤儿分支**，代码在 `main`。这样每天的自动提交只落在 `gh-pages`，不会污染 `main` 的代码历史。
+
+- 站点地址：`https://dear-linko.github.io/sitemap-updata-crawl/`
+- GitHub Pages 设置：**Settings → Pages → Source = Deploy from a branch → `gh-pages` 分支 + `/(root)`**
+- 发布机制：`sync-reports.sh` 把 HTML 生成进 `gh-pages` 分支的一个 git worktree（`./.gh-pages`，已被 `.gitignore`），再只提交并推送 `gh-pages` 分支。
+
+### 一次性准备 worktree
+
+首次在一台机器上部署时，创建 `gh-pages` 的本地 worktree（`sync-reports.sh` 也会自动创建，这里手动确认一遍）：
+
+```bash
+git fetch origin gh-pages
+git worktree add .gh-pages gh-pages
+```
+
+之后 `./.gh-pages` 目录就是 `gh-pages` 分支的检出，monitor 会把 HTML 写进去。
+
+### 日常发布
+
+直接运行发布脚本即可（它会跑监控 + 生成 HTML + 提交推送 `gh-pages`）：
+
+```bash
+./sync-reports.sh
+```
+
+脚本做的事：
+
+1. 同步 `.gh-pages` worktree 到 `origin/gh-pages` 最新状态。
+2. 运行 `run-once`，把 HTML **增量追加**进 `./.gh-pages`（JSON 状态写在 `./data/`，不提交）。
+3. 重建 `index.html`。
+4. 仅当有变化时，在 `gh-pages` 分支提交 `Auto-update: YYYY-MM-DD` 并推送。
+
+> 注意：`make html-rebuild` / `html-rebuild` 是从 `data/reports/*.json` **全量重建**，会删掉没有对应 JSON 的历史页。线上发布请走 `sync-reports.sh`（用的是增量的 `run-once`），不要用 `html-rebuild` 更新线上。
+
+
 
 - `zsh: no matches found: .[dev]`
   - 原因：zsh 把 `.[dev]` 当通配符。
@@ -261,6 +297,14 @@ jq '[.[] | {checked_at, google_trends: ."google-trends"}]' ./data/reports/$(date
 ```
 
 ## cron 示例
+
+发布到 GitHub Pages（推荐，走 `sync-reports.sh`，自动生成 HTML 并推送 `gh-pages`）：
+
+```cron
+*/5 * * * * cd /path/to/sitemap-updata-crawl && ./sync-reports.sh >> ./logs/monitor.log 2>&1
+```
+
+仅本地检测、不发布（只跑监控，不推送）：
 
 ```cron
 */5 * * * * cd /path/to/sitemap-updata-crawl && /usr/bin/python3 -m monitor run-once --config ./config.yaml --baseline ./data/baseline.json --reports-dir ./data/reports >> ./logs/monitor.log 2>&1
